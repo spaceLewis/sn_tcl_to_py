@@ -1,0 +1,1387 @@
+250306Thu174447-87341   >SetPrio: PriorityClass: High
+250306Thu174447-87342   >GetPrio: Current PriorityClass: High
+250306Thu174447-87343   >################GIT#######CHECKING####################################
+250306Thu174447-87344   >######################################################################
+250306Thu174649-09332   >SetPrio: PriorityClass: High
+250306Thu174649-09332   >GetPrio: Current PriorityClass: High
+250306Thu174951-91362   >SetPrio: PriorityClass: High
+250306Thu174951-91363   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8120 Desc.: Default_2025-03-06 17:49:51
+ Table Log_8120_1 was generated
+250306Thu174951-91394   >-----------------------------------------------
+250306Thu174951-91396   >ATTENTION: the script process is logged in following media:
+250306Thu174951-91396   > - LogFiles, -genereated on the local machine
+250306Thu174951-91397   > - SQL database
+250306Thu174951-91398   >-----------------------------------------------
+250306Thu174951-91402 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu174951-91403   :      Call Stack frame:
+250306Thu174951-91403   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu174951-91404 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu174951-91405   :      Call Stack frame:
+250306Thu174951-91405   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu174951-91406 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu174951-91406   :      Call Stack frame:
+250306Thu174951-91407   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu174951-91521   >--- ModSetTimeout
+250306Thu174951-91522   >originally Modbus readintervaltimeout: 40 ms
+250306Thu174951-91523   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu174951-91523   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu174951-91524   >set new Modbus readintervaltimeout: 40 ms
+250306Thu174951-91524   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu174951-91525   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu174951-91630   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175041-41021   >SetPrio: PriorityClass: High
+250306Thu175041-41022   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8121 Desc.: Default_2025-03-06 17:50:41
+ Table Log_8121_1 was generated
+250306Thu175041-41049   >-----------------------------------------------
+250306Thu175041-41051   >ATTENTION: the script process is logged in following media:
+250306Thu175041-41051   > - LogFiles, -genereated on the local machine
+250306Thu175041-41052   > - SQL database
+250306Thu175041-41052   >-----------------------------------------------
+250306Thu175041-41053 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu175041-41053   :      Call Stack frame:
+250306Thu175041-41054   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu175041-41057 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu175041-41058   :      Call Stack frame:
+250306Thu175041-41058   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu175041-41059 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu175041-41060   :      Call Stack frame:
+250306Thu175041-41060   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu175041-41194   >--- ModSetTimeout
+250306Thu175041-41195   >originally Modbus readintervaltimeout: 40 ms
+250306Thu175041-41196   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu175041-41197   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu175041-41197   >set new Modbus readintervaltimeout: 40 ms
+250306Thu175041-41197   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu175041-41198   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu175041-41303   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175041-41394   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu175041-41412   >ModBus TCP port 192.168.100.200 is open
+250306Thu175109-69588   >SetPrio: PriorityClass: High
+250306Thu175109-69589   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8122 Desc.: Default_2025-03-06 17:51:09
+ Table Log_8122_1 was generated
+250306Thu175109-69615   >-----------------------------------------------
+250306Thu175109-69617   >ATTENTION: the script process is logged in following media:
+250306Thu175109-69617   > - LogFiles, -genereated on the local machine
+250306Thu175109-69618   > - SQL database
+250306Thu175109-69618   >-----------------------------------------------
+250306Thu175109-69619 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu175109-69620   :      Call Stack frame:
+250306Thu175109-69620   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu175109-69621 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu175109-69621   :      Call Stack frame:
+250306Thu175109-69622   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu175109-69622 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu175109-69623   :      Call Stack frame:
+250306Thu175109-69623   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu175109-69739   >--- ModSetTimeout
+250306Thu175109-69740   >originally Modbus readintervaltimeout: 40 ms
+250306Thu175109-69741   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu175109-69741   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu175109-69742   >set new Modbus readintervaltimeout: 40 ms
+250306Thu175109-69742   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu175109-69743   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu175109-69847   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175109-69939   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu175109-69958   >ModBus TCP port 192.168.100.200 is open
+250306Thu175109-69960   >
+250306Thu175109-69960   >===============================================================
+250306Thu175109-69961   >Testturm started by SESA598911 at Thu 06.03.25 17:51
+250306Thu175109-69961   >===============================================================
+250306Thu175109-69962   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu175109-69962   >-----------------------------------------------
+250306Thu175109-69963   >Choice of device configuration
+250306Thu175109-69963   >-----------------------------------------------
+250306Thu175109-69963   > 1 - ATS 48P   - Device 1  - CANopen Option 
+250306Thu175109-69964   > 2 - ATS 48OPT - Device 2  - CANopen Option 
+250306Thu175109-69964   > 3 - ATS 48B   - Device 3  - Applicative 
+250306Thu175109-69965   > 4 - ATS 48P   - Device 1B - Applicative (w/o Option) 
+250306Thu175109-69965   > 5 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu175109-69965   > 6 - ATS 48OPT - Device 2B - Robustness 
+250306Thu175109-69966   >-----------------------------------------------
+250306Thu175113-73718 ??>device configuration: ? 2
+250306Thu175113-73719   >Fin de towerDisplayDrives
+250306Thu175113-73721   >physicalActDev : 2 
+250306Thu175113-73721   >configurationActDev : 2
+250306Thu175113-73732   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu175212-32608   >SetPrio: PriorityClass: High
+250306Thu175212-32609   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8123 Desc.: Default_2025-03-06 17:52:12
+ Table Log_8123_1 was generated
+250306Thu175212-32640   >-----------------------------------------------
+250306Thu175212-32642   >ATTENTION: the script process is logged in following media:
+250306Thu175212-32642   > - LogFiles, -genereated on the local machine
+250306Thu175212-32643   > - SQL database
+250306Thu175212-32643   >-----------------------------------------------
+250306Thu175212-32644 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu175212-32645   :      Call Stack frame:
+250306Thu175212-32645   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu175212-32646 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu175212-32646   :      Call Stack frame:
+250306Thu175212-32647   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu175212-32647 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu175212-32648   :      Call Stack frame:
+250306Thu175212-32649   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu175212-32766   >--- ModSetTimeout
+250306Thu175212-32767   >originally Modbus readintervaltimeout: 40 ms
+250306Thu175212-32768   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu175212-32769   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu175212-32769   >set new Modbus readintervaltimeout: 40 ms
+250306Thu175212-32770   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu175212-32770   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu175212-32875   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175212-32967   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu175212-32984   >ModBus TCP port 192.168.100.200 is open
+250306Thu175212-32987   >
+250306Thu175212-32988   >===============================================================
+250306Thu175212-32988   >Testturm started by SESA598911 at Thu 06.03.25 17:52
+250306Thu175212-32989   >===============================================================
+250306Thu175212-32990   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu175212-32990   >-----------------------------------------------
+250306Thu175212-32991   >Choice of device configuration
+250306Thu175212-32992   >-----------------------------------------------
+250306Thu175212-32992   > 1 - ATS 48P   - Device 1  - CANopen Option 
+250306Thu175212-32992   > 2 - ATS 48OPT - Device 2  - CANopen Option 
+250306Thu175212-32993   > 3 - ATS 48B   - Device 3  - Applicative 
+250306Thu175212-32993   > 4 - ATS 48P   - Device 1B - Applicative (w/o Option) 
+250306Thu175212-32994   > 5 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu175212-32994   > 6 - ATS 48OPT - Device 2B - Robustness 
+250306Thu175212-32995   >-----------------------------------------------
+250306Thu175306-86778 ??>device configuration: ? 2
+250306Thu175306-86779   >Fin de towerDisplayDrives
+250306Thu175306-86780   >physicalActDev : 2 
+250306Thu175306-86781   >configurationActDev : 2
+250306Thu175306-86790   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu175307-87218   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu175804-84073   >SetPrio: PriorityClass: High
+250306Thu175804-84073   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8124 Desc.: Default_2025-03-06 17:58:04
+ Table Log_8124_1 was generated
+250306Thu175804-84101   >-----------------------------------------------
+250306Thu175804-84104   >ATTENTION: the script process is logged in following media:
+250306Thu175804-84104   > - LogFiles, -genereated on the local machine
+250306Thu175804-84105   > - SQL database
+250306Thu175804-84105   >-----------------------------------------------
+250306Thu175804-84106 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu175804-84106   :      Call Stack frame:
+250306Thu175804-84107   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu175804-84107 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu175804-84108   :      Call Stack frame:
+250306Thu175804-84108   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu175804-84109 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu175804-84109   :      Call Stack frame:
+250306Thu175804-84110   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu175804-84222   >--- ModSetTimeout
+250306Thu175804-84223   >originally Modbus readintervaltimeout: 40 ms
+250306Thu175804-84224   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu175804-84224   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu175804-84225   >set new Modbus readintervaltimeout: 40 ms
+250306Thu175804-84225   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu175804-84225   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu175804-84332   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175804-84424   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu175804-84443   >ModBus TCP port 192.168.100.200 is open
+250306Thu175804-84445   >
+250306Thu175804-84446   >===============================================================
+250306Thu175804-84447   >Testturm started by SESA598911 at Thu 06.03.25 17:58
+250306Thu175804-84447   >===============================================================
+250306Thu175804-84448   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu175804-84448   >-----------------------------------------------
+250306Thu175804-84449   >Choice of device configuration
+250306Thu175804-84449   >-----------------------------------------------
+250306Thu175804-84450   > 1 - ATS 48P   - Device 1  - CANopen Option 
+250306Thu175804-84450   > 2 - ATS 48OPT - Device 2  - CANopen Option 
+250306Thu175804-84451   > 3 - ATS 48B   - Device 3  - Applicative 
+250306Thu175804-84451   > 4 - ATS 48P   - Device 1B - Applicative (w/o Option) 
+250306Thu175804-84451   > 5 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu175804-84452   > 6 - ATS 48OPT - Device 2B - Robustness 
+250306Thu175804-84452   >-----------------------------------------------
+250306Thu175805-85798 ??>device configuration: ? 2
+250306Thu175805-85799   >Fin de towerDisplayDrives
+250306Thu175805-85800   >physicalActDev : 2 
+250306Thu175805-85801   >configurationActDev : 2
+250306Thu175805-85804   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu175806-86241   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu175807-87272   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu175807-87274   >Actual bus interface: MOD
+250306Thu175807-87275   >TlDebugLevel 0
+250306Thu175910-50525   >SetPrio: PriorityClass: High
+250306Thu175910-50526   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8125 Desc.: Default_2025-03-06 17:59:10
+ Table Log_8125_1 was generated
+250306Thu175910-50560   >-----------------------------------------------
+250306Thu175910-50562   >ATTENTION: the script process is logged in following media:
+250306Thu175910-50562   > - LogFiles, -genereated on the local machine
+250306Thu175910-50562   > - SQL database
+250306Thu175910-50563   >-----------------------------------------------
+250306Thu175910-50564 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu175910-50564   :      Call Stack frame:
+250306Thu175910-50565   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu175910-50566 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu175910-50567   :      Call Stack frame:
+250306Thu175910-50567   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu175910-50568 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu175910-50568   :      Call Stack frame:
+250306Thu175910-50569   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu175910-50696   >--- ModSetTimeout
+250306Thu175910-50697   >originally Modbus readintervaltimeout: 40 ms
+250306Thu175910-50698   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu175910-50699   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu175910-50699   >set new Modbus readintervaltimeout: 40 ms
+250306Thu175910-50699   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu175910-50700   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu175910-50807   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu175910-50897   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu175910-50917   >ModBus TCP port 192.168.100.200 is open
+250306Thu175910-50919   >
+250306Thu175910-50920   >===============================================================
+250306Thu175910-50920   >Testturm started by SESA598911 at Thu 06.03.25 17:59
+250306Thu175910-50921   >===============================================================
+250306Thu175910-50921   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu175910-50922   >-----------------------------------------------
+250306Thu175910-50922   >Choice of device configuration
+250306Thu175910-50922   >-----------------------------------------------
+250306Thu175910-50923   > 1 - ATS 48P   - Device 1  - CANopen Option 
+250306Thu175910-50923   > 2 - ATS 48OPT - Device 2  - CANopen Option 
+250306Thu175910-50923   > 3 - ATS 48B   - Device 3  - Applicative 
+250306Thu175910-50924   > 4 - ATS 48P   - Device 1B - Applicative (w/o Option) 
+250306Thu175910-50924   > 5 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu175910-50924   > 6 - ATS 48OPT - Device 2B - Robustness 
+250306Thu175910-50925   >-----------------------------------------------
+250306Thu175912-52038 ??>device configuration: ? 2
+250306Thu175912-52039   >Fin de towerDisplayDrives
+250306Thu175912-52040   >physicalActDev : 2 
+250306Thu175912-52041   >configurationActDev : 2
+250306Thu175912-52044   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu175912-52473   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu175913-53516   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu175913-53518   >Actual bus interface: MOD
+250306Thu175913-53519   >TlDebugLevel 0
+250306Thu175913-53524   >
+250306Thu175913-53525   >############################################
+250306Thu175913-53525   >#        MAIN-MENU                         #
+250306Thu175913-53526   >#  {ATS 48OPT - Device 2  - CANopen Option}        # 
+250306Thu175913-53526   >#                                          #
+250306Thu175913-53527   >############################################
+250306Thu175913-53527   >
+250306Thu175913-53528   > 0      - All test directories
+250306Thu175913-53528   >
+250306Thu175913-53529   > 1      - TC_0Init
+250306Thu175913-53529   > 2      - TC_GNG_rules_ATLAS
+250306Thu175913-53529   > 3      - TC_CANopen_ATLAS
+250306Thu175913-53530   > 4      - TC_CableDisconnection_ATLAS
+250306Thu175913-53530   >
+250306Thu175913-53530   > X          - Exit
+250306Thu175913-53531   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu175913-53531   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu175913-53531   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu175913-53532   > t          - Timer
+250306Thu175913-53532   > h          - Hardware commands
+250306Thu175913-53532   > s          - Software commands
+250306Thu175913-53533   > f          - Set firmware features
+250306Thu175913-53533   > file       - Execute test case IDs listed in a file
+250306Thu175913-53533   > all        - Show all test directory
+250306Thu175913-53534   > IniDir     - Show initial test directory
+250306Thu175913-53534   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu175913-53534   > clear      - Delete TXT log files and default test runs in data base
+250306Thu175913-53535   > cmd        - Enter TCL commands
+250306Thu175913-53535   > new        - Initialize new Data base test log
+250306Thu175913-53535   > del        - Delete current database test log
+250306Thu175913-53538   > delOld     - Delete old data base test log
+250306Thu175913-53538   > open       - Open serial port
+250306Thu175913-53538   > close      - Close serial port
+250306Thu175913-53539   > on         - Switch current device on
+250306Thu175913-53539   > off        - Switch current device off
+250306Thu175913-53539   > ActDev     - Set active device
+250306Thu175913-53540   > ShowBit    - Show all bits set in a given parameter
+250306Thu175913-53540   > check      - Check if everything is ready for a test-run
+250306Thu175913-53541   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu175913-53541   >
+250306Thu175913-53541   > Test directories or files can be combined 
+250306Thu175913-53541   > with current run (e.g. 3 8 6+)
+250306Thu175913-53542   > or with repeats (e.g. 3 8 6 4x)
+250306Thu175913-53542   >
+250306Thu175936-76669 ??>Menu point ? 2
+250306Thu175936-76670   >
+250306Thu180753-73822   >SetPrio: PriorityClass: High
+250306Thu180753-73822   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8126 Desc.: Default_2025-03-06 18:07:53
+ Table Log_8126_1 was generated
+250306Thu180753-73853   >-----------------------------------------------
+250306Thu180753-73854   >ATTENTION: the script process is logged in following media:
+250306Thu180753-73855   > - LogFiles, -genereated on the local machine
+250306Thu180753-73855   > - SQL database
+250306Thu180753-73855   >-----------------------------------------------
+250306Thu180753-73856 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu180753-73857   :      Call Stack frame:
+250306Thu180753-73857   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu180753-73858 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu180753-73859   :      Call Stack frame:
+250306Thu180753-73860   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu180753-73861 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu180753-73861   :      Call Stack frame:
+250306Thu180753-73862   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu180753-73984   >--- ModSetTimeout
+250306Thu180753-73985   >originally Modbus readintervaltimeout: 40 ms
+250306Thu180753-73986   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu180753-73986   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu180753-73987   >set new Modbus readintervaltimeout: 40 ms
+250306Thu180753-73987   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu180753-73987   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu180754-74094   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu180754-74188   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu180754-74220   >ModBus TCP port 192.168.100.200 is open
+250306Thu180754-74222   >
+250306Thu180754-74223   >===============================================================
+250306Thu180754-74223   >Testturm started by SESA598911 at Thu 06.03.25 18:07
+250306Thu180754-74224   >===============================================================
+250306Thu180754-74224   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu180754-74225   >-----------------------------------------------
+250306Thu180754-74225   >Choice of device configuration
+250306Thu180754-74225   >-----------------------------------------------
+250306Thu180754-74226   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu180754-74226   >-----------------------------------------------
+250306Thu180756-76443 ??>device configuration: ? 1
+250306Thu180756-76444   >Fin de towerDisplayDrives
+250306Thu180756-76445   >physicalActDev : 2 
+250306Thu180756-76446   >configurationActDev : 1
+250306Thu180756-76450   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu180756-76930   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu180758-78014   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu180758-78016   >Actual bus interface: MOD
+250306Thu180758-78017   >TlDebugLevel 0
+250306Thu180758-78027   >
+250306Thu180758-78028   >############################################
+250306Thu180758-78031   >#        MAIN-MENU                         #
+250306Thu180758-78032   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu180758-78032   >#                                          #
+250306Thu180758-78033   >############################################
+250306Thu180758-78033   >
+250306Thu180758-78034   > 0      - All test directories
+250306Thu180758-78034   >
+250306Thu180758-78035   > 1      - TC_0Init
+250306Thu180758-78035   > 2      - TC_ATS
+250306Thu180758-78035   >
+250306Thu180758-78036   > X          - Exit
+250306Thu180758-78036   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu180758-78037   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu180758-78038   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu180758-78038   > t          - Timer
+250306Thu180758-78038   > h          - Hardware commands
+250306Thu180758-78039   > s          - Software commands
+250306Thu180758-78039   > f          - Set firmware features
+250306Thu180758-78039   > file       - Execute test case IDs listed in a file
+250306Thu180758-78040   > all        - Show all test directory
+250306Thu180758-78040   > IniDir     - Show initial test directory
+250306Thu180758-78040   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu180758-78041   > clear      - Delete TXT log files and default test runs in data base
+250306Thu180758-78041   > cmd        - Enter TCL commands
+250306Thu180758-78041   > new        - Initialize new Data base test log
+250306Thu180758-78042   > del        - Delete current database test log
+250306Thu180758-78042   > delOld     - Delete old data base test log
+250306Thu180758-78042   > open       - Open serial port
+250306Thu180758-78043   > close      - Close serial port
+250306Thu180758-78043   > on         - Switch current device on
+250306Thu180758-78043   > off        - Switch current device off
+250306Thu180758-78046   > ActDev     - Set active device
+250306Thu180758-78046   > ShowBit    - Show all bits set in a given parameter
+250306Thu180758-78046   > check      - Check if everything is ready for a test-run
+250306Thu180758-78047   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu180758-78047   >
+250306Thu180758-78048   > Test directories or files can be combined 
+250306Thu180758-78048   > with current run (e.g. 3 8 6+)
+250306Thu180758-78048   > or with repeats (e.g. 3 8 6 4x)
+250306Thu180758-78049   >
+250306Thu180801-81684 ??>Menu point ? on
+250306Thu180801-81685   >
+250306Thu180925-65989   >SetPrio: PriorityClass: High
+250306Thu180925-65990   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8127 Desc.: Default_2025-03-06 18:09:26
+ Table Log_8127_1 was generated
+250306Thu180926-66018   >-----------------------------------------------
+250306Thu180926-66019   >ATTENTION: the script process is logged in following media:
+250306Thu180926-66020   > - LogFiles, -genereated on the local machine
+250306Thu180926-66020   > - SQL database
+250306Thu180926-66020   >-----------------------------------------------
+250306Thu180926-66021 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu180926-66021   :      Call Stack frame:
+250306Thu180926-66022   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu180926-66023 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu180926-66024   :      Call Stack frame:
+250306Thu180926-66025   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu180926-66026 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu180926-66027   :      Call Stack frame:
+250306Thu180926-66027   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu180926-66149   >--- ModSetTimeout
+250306Thu180926-66150   >originally Modbus readintervaltimeout: 40 ms
+250306Thu180926-66152   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu180926-66152   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu180926-66153   >set new Modbus readintervaltimeout: 40 ms
+250306Thu180926-66154   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu180926-66154   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu180926-66259   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu180926-66351   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu180926-66368   >ModBus TCP port 192.168.100.200 is open
+250306Thu180926-66370   >
+250306Thu180926-66371   >===============================================================
+250306Thu180926-66372   >Testturm started by SESA598911 at Thu 06.03.25 18:09
+250306Thu180926-66372   >===============================================================
+250306Thu180926-66373   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu180926-66373   >-----------------------------------------------
+250306Thu180926-66374   >Choice of device configuration
+250306Thu180926-66374   >-----------------------------------------------
+250306Thu180926-66374   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu180926-66375   >-----------------------------------------------
+250306Thu180926-66376 ??>device configuration: ? 
+250306Thu180928-68455 ??>device configuration: ? 1
+250306Thu180928-68455   >Fin de towerDisplayDrives
+250306Thu180928-68457   >physicalActDev : 2 
+250306Thu180928-68457   >configurationActDev : 1
+250306Thu180928-68467   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu180928-68900   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu180929-69944   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu180929-69953   >Actual bus interface: MOD
+250306Thu180929-69954   >TlDebugLevel 0
+250306Thu180929-69958   >
+250306Thu180929-69958   >############################################
+250306Thu180929-69959   >#        MAIN-MENU                         #
+250306Thu180929-69960   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu180929-69960   >#                                          #
+250306Thu180929-69960   >############################################
+250306Thu180929-69961   >
+250306Thu180929-69961   > 0      - All test directories
+250306Thu180929-69962   >
+250306Thu180929-69962   > 1      - TC_0Init
+250306Thu180929-69962   > 2      - TC_ATS
+250306Thu180929-69963   >
+250306Thu180929-69963   > X          - Exit
+250306Thu180929-69964   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu180929-69964   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu180929-69964   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu180929-69965   > t          - Timer
+250306Thu180929-69965   > h          - Hardware commands
+250306Thu180929-69966   > s          - Software commands
+250306Thu180929-69966   > f          - Set firmware features
+250306Thu180929-69972   > file       - Execute test case IDs listed in a file
+250306Thu180929-69972   > all        - Show all test directory
+250306Thu180929-69973   > IniDir     - Show initial test directory
+250306Thu180929-69973   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu180929-69973   > clear      - Delete TXT log files and default test runs in data base
+250306Thu180929-69974   > cmd        - Enter TCL commands
+250306Thu180929-69974   > new        - Initialize new Data base test log
+250306Thu180929-69974   > del        - Delete current database test log
+250306Thu180929-69975   > delOld     - Delete old data base test log
+250306Thu180929-69975   > open       - Open serial port
+250306Thu180929-69975   > close      - Close serial port
+250306Thu180929-69976   > on         - Switch current device on
+250306Thu180929-69976   > off        - Switch current device off
+250306Thu180929-69976   > ActDev     - Set active device
+250306Thu180929-69977   > ShowBit    - Show all bits set in a given parameter
+250306Thu180929-69977   > check      - Check if everything is ready for a test-run
+250306Thu180929-69977   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu180929-69978   >
+250306Thu180929-69978   > Test directories or files can be combined 
+250306Thu180929-69978   > with current run (e.g. 3 8 6+)
+250306Thu180929-69979   > or with repeats (e.g. 3 8 6 4x)
+250306Thu180929-69979   >
+250306Thu180932-72141 ??>Menu point ? on
+250306Thu180932-72141   >
+250306Thu180932-72188   >Switch On 230V CL1/CL2
+250306Thu180932-72219   >========= set PhaseAllOnOff of DevNr 2 to H =========
+250306Thu180932-72344   >========= MotorPhaseAllOnOff H =========
+250306Thu180932-72407   >Wait for object EEPS to reach value 0 and keep it during 5 s . Max wait 90 s. Bitmaske 0xFFFF, TTID :  , Error print 1
+250306Thu181029-29805   >SetPrio: PriorityClass: High
+250306Thu181029-29805   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8128 Desc.: Default_2025-03-06 18:10:29
+ Table Log_8128_1 was generated
+250306Thu181029-29838   >-----------------------------------------------
+250306Thu181029-29840   >ATTENTION: the script process is logged in following media:
+250306Thu181029-29840   > - LogFiles, -genereated on the local machine
+250306Thu181029-29840   > - SQL database
+250306Thu181029-29841   >-----------------------------------------------
+250306Thu181029-29841 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu181029-29842   :      Call Stack frame:
+250306Thu181029-29843   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu181029-29843 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu181029-29844   :      Call Stack frame:
+250306Thu181029-29845   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu181029-29845 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu181029-29846   :      Call Stack frame:
+250306Thu181029-29846   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu181029-29973   >--- ModSetTimeout
+250306Thu181029-29973   >originally Modbus readintervaltimeout: 40 ms
+250306Thu181029-29974   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu181029-29975   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu181029-29975   >set new Modbus readintervaltimeout: 40 ms
+250306Thu181029-29975   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu181029-29976   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu181030-30082   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu181030-30175   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu181030-30193   >ModBus TCP port 192.168.100.200 is open
+250306Thu181030-30196   >
+250306Thu181030-30197   >===============================================================
+250306Thu181030-30198   >Testturm started by SESA598911 at Thu 06.03.25 18:10
+250306Thu181030-30199   >===============================================================
+250306Thu181030-30200   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu181030-30200   >-----------------------------------------------
+250306Thu181030-30201   >Choice of device configuration
+250306Thu181030-30201   >-----------------------------------------------
+250306Thu181030-30202   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu181030-30202   >-----------------------------------------------
+250306Thu181031-31529 ??>device configuration: ? 1
+250306Thu181031-31530   >Fin de towerDisplayDrives
+250306Thu181031-31532   >physicalActDev : 2 
+250306Thu181031-31532   >configurationActDev : 1
+250306Thu181031-31536   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu181031-31983   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu181033-33043   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu181033-33045   >Actual bus interface: MOD
+250306Thu181033-33045   >TlDebugLevel 0
+250306Thu181033-33050   >
+250306Thu181033-33051   >############################################
+250306Thu181033-33052   >#        MAIN-MENU                         #
+250306Thu181033-33052   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181033-33053   >#                                          #
+250306Thu181033-33053   >############################################
+250306Thu181033-33054   >
+250306Thu181033-33054   > 0      - All test directories
+250306Thu181033-33055   >
+250306Thu181033-33055   > 1      - TC_0Init
+250306Thu181033-33055   > 2      - TC_ATS
+250306Thu181033-33056   >
+250306Thu181033-33056   > X          - Exit
+250306Thu181033-33057   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181033-33057   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181033-33058   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181033-33058   > t          - Timer
+250306Thu181033-33058   > h          - Hardware commands
+250306Thu181033-33059   > s          - Software commands
+250306Thu181033-33059   > f          - Set firmware features
+250306Thu181033-33060   > file       - Execute test case IDs listed in a file
+250306Thu181033-33060   > all        - Show all test directory
+250306Thu181033-33060   > IniDir     - Show initial test directory
+250306Thu181033-33061   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181033-33061   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181033-33061   > cmd        - Enter TCL commands
+250306Thu181033-33062   > new        - Initialize new Data base test log
+250306Thu181033-33062   > del        - Delete current database test log
+250306Thu181033-33062   > delOld     - Delete old data base test log
+250306Thu181033-33063   > open       - Open serial port
+250306Thu181033-33063   > close      - Close serial port
+250306Thu181033-33066   > on         - Switch current device on
+250306Thu181033-33066   > off        - Switch current device off
+250306Thu181033-33067   > ActDev     - Set active device
+250306Thu181033-33067   > ShowBit    - Show all bits set in a given parameter
+250306Thu181033-33067   > check      - Check if everything is ready for a test-run
+250306Thu181033-33068   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181033-33068   >
+250306Thu181033-33068   > Test directories or files can be combined 
+250306Thu181033-33069   > with current run (e.g. 3 8 6+)
+250306Thu181033-33069   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181033-33069   >
+250306Thu181034-34709 ??>Menu point ? on
+250306Thu181034-34710   >
+250306Thu181034-34742   >========= set PhaseAllOnOff of DevNr 2 to H =========
+250306Thu181034-34836   >========= MotorPhaseAllOnOff H =========
+250306Thu181034-34900   >Wait for object EEPS to reach value 0 and keep it during 5 s . Max wait 90 s. Bitmaske 0xFFFF, TTID :  , Error print 1
+250306Thu181039-39936   >doWaitForObject EEPS exp=act=0x0000 (0), waittime (5017ms / 148 requests)
+250306Thu181039-39938   >
+250306Thu181039-39939   >############################################
+250306Thu181039-39940   >#        MAIN-MENU                         #
+250306Thu181039-39940   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181039-39941   >#                                          #
+250306Thu181039-39941   >############################################
+250306Thu181039-39942   >
+250306Thu181039-39942   > 0      - All test directories
+250306Thu181039-39942   >
+250306Thu181039-39943   > 1      - TC_0Init
+250306Thu181039-39943   > 2      - TC_ATS
+250306Thu181039-39944   >
+250306Thu181039-39944   > X          - Exit
+250306Thu181039-39944   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181039-39945   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181039-39945   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181039-39945   > t          - Timer
+250306Thu181039-39946   > h          - Hardware commands
+250306Thu181039-39946   > s          - Software commands
+250306Thu181039-39946   > f          - Set firmware features
+250306Thu181039-39947   > file       - Execute test case IDs listed in a file
+250306Thu181039-39947   > all        - Show all test directory
+250306Thu181039-39947   > IniDir     - Show initial test directory
+250306Thu181039-39948   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181039-39948   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181039-39951   > cmd        - Enter TCL commands
+250306Thu181039-39951   > new        - Initialize new Data base test log
+250306Thu181039-39951   > del        - Delete current database test log
+250306Thu181039-39952   > delOld     - Delete old data base test log
+250306Thu181039-39952   > open       - Open serial port
+250306Thu181039-39952   > close      - Close serial port
+250306Thu181039-39952   > on         - Switch current device on
+250306Thu181039-39953   > off        - Switch current device off
+250306Thu181039-39953   > ActDev     - Set active device
+250306Thu181039-39953   > ShowBit    - Show all bits set in a given parameter
+250306Thu181039-39954   > check      - Check if everything is ready for a test-run
+250306Thu181039-39954   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181039-39954   >
+250306Thu181039-39955   > Test directories or files can be combined 
+250306Thu181039-39955   > with current run (e.g. 3 8 6+)
+250306Thu181039-39955   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181039-39956   >
+250306Thu181044-44678 ??>Menu point ? off
+250306Thu181044-44679   >
+250306Thu181044-44700   >Cut Off 230V CL1/CL2
+250306Thu181044-44731   >========= set PhaseAllOnOff of DevNr 2 to L =========
+250306Thu181044-44858   >========= MotorPhaseAllOnOff L =========
+250306Thu181044-44921   >--- ModSetTimeout
+250306Thu181044-44922   >originally Modbus readintervaltimeout: 40 ms
+250306Thu181044-44923   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu181044-44923   >originally Modbus writetotaltimeout  : 2000 ms
+250306Thu181044-44924   >set new Modbus readintervaltimeout: 40 ms
+250306Thu181044-44924   >set new Modbus readtotaltimeout   : 200 ms
+250306Thu181044-44924   >set new Modbus writetotaltimeout  : 200 ms
+250306Thu181047-47373   >Device is off after 2342 ms
+250306Thu181047-47374   >--- ModDefaultTimeout
+250306Thu181047-47378   >restore Modbus readintervaltimeout: 80 ms
+250306Thu181047-47378   >restore Modbus readtotaltimeout   : 2000 ms
+250306Thu181047-47379   >restore Modbus writetotaltimeout  : 2000 ms
+250306Thu181047-47483   >wait for 1000 ms
+250306Thu181048-48487   >
+250306Thu181048-48488   >############################################
+250306Thu181048-48489   >#        MAIN-MENU                         #
+250306Thu181048-48489   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181048-48490   >#                                          #
+250306Thu181048-48490   >############################################
+250306Thu181048-48491   >
+250306Thu181048-48491   > 0      - All test directories
+250306Thu181048-48492   >
+250306Thu181048-48492   > 1      - TC_0Init
+250306Thu181048-48492   > 2      - TC_ATS
+250306Thu181048-48493   >
+250306Thu181048-48493   > X          - Exit
+250306Thu181048-48494   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181048-48494   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181048-48494   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181048-48495   > t          - Timer
+250306Thu181048-48495   > h          - Hardware commands
+250306Thu181048-48495   > s          - Software commands
+250306Thu181048-48496   > f          - Set firmware features
+250306Thu181048-48496   > file       - Execute test case IDs listed in a file
+250306Thu181048-48496   > all        - Show all test directory
+250306Thu181048-48497   > IniDir     - Show initial test directory
+250306Thu181048-48497   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181048-48497   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181048-48498   > cmd        - Enter TCL commands
+250306Thu181048-48498   > new        - Initialize new Data base test log
+250306Thu181048-48498   > del        - Delete current database test log
+250306Thu181048-48499   > delOld     - Delete old data base test log
+250306Thu181048-48499   > open       - Open serial port
+250306Thu181048-48500   > close      - Close serial port
+250306Thu181048-48500   > on         - Switch current device on
+250306Thu181048-48500   > off        - Switch current device off
+250306Thu181048-48503   > ActDev     - Set active device
+250306Thu181048-48504   > ShowBit    - Show all bits set in a given parameter
+250306Thu181048-48504   > check      - Check if everything is ready for a test-run
+250306Thu181048-48504   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181048-48505   >
+250306Thu181048-48505   > Test directories or files can be combined 
+250306Thu181048-48506   > with current run (e.g. 3 8 6+)
+250306Thu181048-48506   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181048-48506   >
+250306Thu181050-50938 ??>Menu point ? new
+250306Thu181050-50939   >
+250306Thu181050-50940   >1 - Default_xxxx-xx-xx
+250306Thu181050-50941   >2 - Night_xxxx-xx-xx
+250306Thu181050-50941   >3 - Weekend_xxxx-xx-xx
+250306Thu181050-50941   >4 - Insert free description
+250306Thu181050-50942   >
+250306Thu181052-52017 ??>Select test run description (Default:1) ? 1
+250306Thu181052-52017   >
+250306Thu181052-52018   >
+ Generate test run: ID: 8129 Desc.: Default_2025-03-06 18:10:52
+ Table Log_8129_1 was generated
+250306Thu181052-52035   >
+250306Thu181052-52037   >############################################
+250306Thu181052-52038   >#        MAIN-MENU                         #
+250306Thu181052-52038   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181052-52039   >#                                          #
+250306Thu181052-52039   >############################################
+250306Thu181052-52040   >
+250306Thu181052-52040   > 0      - All test directories
+250306Thu181052-52040   >
+250306Thu181052-52041   > 1      - TC_0Init
+250306Thu181052-52041   > 2      - TC_ATS
+250306Thu181052-52042   >
+250306Thu181052-52042   > X          - Exit
+250306Thu181052-52042   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181052-52043   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181052-52043   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181052-52043   > t          - Timer
+250306Thu181052-52044   > h          - Hardware commands
+250306Thu181052-52044   > s          - Software commands
+250306Thu181052-52044   > f          - Set firmware features
+250306Thu181052-52045   > file       - Execute test case IDs listed in a file
+250306Thu181052-52045   > all        - Show all test directory
+250306Thu181052-52047   > IniDir     - Show initial test directory
+250306Thu181052-52047   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181052-52048   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181052-52048   > cmd        - Enter TCL commands
+250306Thu181052-52048   > new        - Initialize new Data base test log
+250306Thu181052-52049   > del        - Delete current database test log
+250306Thu181052-52049   > delOld     - Delete old data base test log
+250306Thu181052-52049   > open       - Open serial port
+250306Thu181052-52050   > close      - Close serial port
+250306Thu181052-52050   > on         - Switch current device on
+250306Thu181052-52050   > off        - Switch current device off
+250306Thu181052-52051   > ActDev     - Set active device
+250306Thu181052-52051   > ShowBit    - Show all bits set in a given parameter
+250306Thu181052-52051   > check      - Check if everything is ready for a test-run
+250306Thu181052-52052   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181052-52052   >
+250306Thu181052-52052   > Test directories or files can be combined 
+250306Thu181052-52053   > with current run (e.g. 3 8 6+)
+250306Thu181052-52053   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181052-52053   >
+250306Thu181059-59890 ??>Menu point ? 2
+250306Thu181059-59890   >
+250306Thu181138-98632   >
+250306Thu181138-98632   >############################################
+250306Thu181138-98632   >#        MAIN-MENU                         #
+250306Thu181138-98633   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181138-98633   >#                                          #
+250306Thu181138-98634   >############################################
+250306Thu181138-98634   >
+250306Thu181138-98634   > 0      - All test directories
+250306Thu181138-98635   >
+250306Thu181138-98635   > 1      - TC_0Init
+250306Thu181138-98635   > 2      - TC_ATS
+250306Thu181138-98636   >
+250306Thu181138-98636   > X          - Exit
+250306Thu181138-98636   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181138-98637   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181138-98637   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181138-98637   > t          - Timer
+250306Thu181138-98638   > h          - Hardware commands
+250306Thu181138-98638   > s          - Software commands
+250306Thu181138-98638   > f          - Set firmware features
+250306Thu181138-98639   > file       - Execute test case IDs listed in a file
+250306Thu181138-98639   > all        - Show all test directory
+250306Thu181138-98639   > IniDir     - Show initial test directory
+250306Thu181138-98640   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181138-98640   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181138-98640   > cmd        - Enter TCL commands
+250306Thu181138-98641   > new        - Initialize new Data base test log
+250306Thu181138-98641   > del        - Delete current database test log
+250306Thu181138-98641   > delOld     - Delete old data base test log
+250306Thu181138-98642   > open       - Open serial port
+250306Thu181138-98642   > close      - Close serial port
+250306Thu181138-98642   > on         - Switch current device on
+250306Thu181138-98643   > off        - Switch current device off
+250306Thu181138-98643   > ActDev     - Set active device
+250306Thu181138-98643   > ShowBit    - Show all bits set in a given parameter
+250306Thu181138-98644   > check      - Check if everything is ready for a test-run
+250306Thu181138-98644   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181138-98644   >
+250306Thu181138-98645   > Test directories or files can be combined 
+250306Thu181138-98645   > with current run (e.g. 3 8 6+)
+250306Thu181138-98645   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181138-98646   >
+250306Thu181141-01478 ??>Menu point ? 2
+250306Thu181141-01479   >
+250306Thu181148-08412   >
+250306Thu181148-08413   >############################################
+250306Thu181148-08413   >#        MAIN-MENU                         #
+250306Thu181148-08414   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181148-08414   >#                                          #
+250306Thu181148-08415   >############################################
+250306Thu181148-08415   >
+250306Thu181148-08416   > 0      - All test directories
+250306Thu181148-08416   >
+250306Thu181148-08417   > 1      - TC_0Init
+250306Thu181148-08417   > 2      - TC_ATS
+250306Thu181148-08417   >
+250306Thu181148-08418   > X          - Exit
+250306Thu181148-08418   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181148-08418   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181148-08419   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181148-08419   > t          - Timer
+250306Thu181148-08419   > h          - Hardware commands
+250306Thu181148-08420   > s          - Software commands
+250306Thu181148-08420   > f          - Set firmware features
+250306Thu181148-08420   > file       - Execute test case IDs listed in a file
+250306Thu181148-08421   > all        - Show all test directory
+250306Thu181148-08421   > IniDir     - Show initial test directory
+250306Thu181148-08421   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181148-08424   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181148-08424   > cmd        - Enter TCL commands
+250306Thu181148-08424   > new        - Initialize new Data base test log
+250306Thu181148-08425   > del        - Delete current database test log
+250306Thu181148-08425   > delOld     - Delete old data base test log
+250306Thu181148-08425   > open       - Open serial port
+250306Thu181148-08426   > close      - Close serial port
+250306Thu181148-08426   > on         - Switch current device on
+250306Thu181148-08426   > off        - Switch current device off
+250306Thu181148-08427   > ActDev     - Set active device
+250306Thu181148-08427   > ShowBit    - Show all bits set in a given parameter
+250306Thu181148-08427   > check      - Check if everything is ready for a test-run
+250306Thu181148-08428   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181148-08428   >
+250306Thu181148-08428   > Test directories or files can be combined 
+250306Thu181148-08429   > with current run (e.g. 3 8 6+)
+250306Thu181148-08429   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181148-08429   >
+250306Thu181154-14826 ??>Menu point ? 1 2
+250306Thu181154-14827   >
+250306Thu181154-14828   >=============================================================
+250306Thu181154-14828   >Start category TC_0Init
+250306Thu181154-14829   >=============================================================
+250306Thu181158-18417   >=============================================================
+250306Thu181158-18418   >Start category TC_ATS
+250306Thu181158-18418   >=============================================================
+250306Thu181158-18440   >
+250306Thu181158-18441   >############################################
+250306Thu181158-18442   >#        MAIN-MENU                         #
+250306Thu181158-18443   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181158-18444   >#                                          #
+250306Thu181158-18444   >############################################
+250306Thu181158-18445   >
+250306Thu181158-18445   > 0      - All test directories
+250306Thu181158-18445   >
+250306Thu181158-18446   > 1      - TC_0Init
+250306Thu181158-18446   > 2      - TC_ATS
+250306Thu181158-18446   >
+250306Thu181158-18447   > X          - Exit
+250306Thu181158-18447   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181158-18448   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181158-18448   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181158-18449   > t          - Timer
+250306Thu181158-18449   > h          - Hardware commands
+250306Thu181158-18449   > s          - Software commands
+250306Thu181158-18450   > f          - Set firmware features
+250306Thu181158-18450   > file       - Execute test case IDs listed in a file
+250306Thu181158-18450   > all        - Show all test directory
+250306Thu181158-18451   > IniDir     - Show initial test directory
+250306Thu181158-18451   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181158-18451   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181158-18452   > cmd        - Enter TCL commands
+250306Thu181158-18452   > new        - Initialize new Data base test log
+250306Thu181158-18452   > del        - Delete current database test log
+250306Thu181158-18453   > delOld     - Delete old data base test log
+250306Thu181158-18453   > open       - Open serial port
+250306Thu181158-18453   > close      - Close serial port
+250306Thu181158-18454   > on         - Switch current device on
+250306Thu181158-18454   > off        - Switch current device off
+250306Thu181158-18454   > ActDev     - Set active device
+250306Thu181158-18455   > ShowBit    - Show all bits set in a given parameter
+250306Thu181158-18455   > check      - Check if everything is ready for a test-run
+250306Thu181158-18456   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181158-18456   >
+250306Thu181158-18456   > Test directories or files can be combined 
+250306Thu181158-18457   > with current run (e.g. 3 8 6+)
+250306Thu181158-18459   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181158-18459   >
+250306Thu181444-84648 ??>Menu point ? 1 2
+250306Thu181444-84649   >
+250306Thu181444-84649   >=============================================================
+250306Thu181444-84650   >Start category TC_0Init
+250306Thu181444-84650   >=============================================================
+250306Thu181644-04794   >SetPrio: PriorityClass: High
+250306Thu181644-04794   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8130 Desc.: Default_2025-03-06 18:16:44
+ Table Log_8130_1 was generated
+250306Thu181644-04828   >-----------------------------------------------
+250306Thu181644-04830   >ATTENTION: the script process is logged in following media:
+250306Thu181644-04830   > - LogFiles, -genereated on the local machine
+250306Thu181644-04831   > - SQL database
+250306Thu181644-04831   >-----------------------------------------------
+250306Thu181644-04832 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu181644-04832   :      Call Stack frame:
+250306Thu181644-04833   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu181644-04833 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu181644-04834   :      Call Stack frame:
+250306Thu181644-04834   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu181644-04835 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu181644-04835   :      Call Stack frame:
+250306Thu181644-04836   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu181644-04948   >--- ModSetTimeout
+250306Thu181644-04949   >originally Modbus readintervaltimeout: 40 ms
+250306Thu181644-04950   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu181644-04950   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu181644-04951   >set new Modbus readintervaltimeout: 40 ms
+250306Thu181644-04951   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu181644-04952   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu181645-05058   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu181645-05151   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu181645-05168   >ModBus TCP port 192.168.100.200 is open
+250306Thu181645-05171   >
+250306Thu181645-05172   >===============================================================
+250306Thu181645-05172   >Testturm started by SESA598911 at Thu 06.03.25 18:16
+250306Thu181645-05173   >===============================================================
+250306Thu181645-05174   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu181645-05174   >-----------------------------------------------
+250306Thu181645-05174   >Choice of device configuration
+250306Thu181645-05175   >-----------------------------------------------
+250306Thu181645-05175   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu181645-05175   >-----------------------------------------------
+250306Thu181649-09439 ??>device configuration: ? 1
+250306Thu181649-09440   >Fin de towerDisplayDrives
+250306Thu181649-09441   >physicalActDev : 2 
+250306Thu181649-09442   >configurationActDev : 1
+250306Thu181649-09452   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu181649-09886   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu181650-10928   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu181650-10930   >Actual bus interface: MOD
+250306Thu181650-10931   >TlDebugLevel 0
+250306Thu181650-10942   >
+250306Thu181650-10943   >############################################
+250306Thu181650-10944   >#        MAIN-MENU                         #
+250306Thu181650-10944   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181650-10945   >#                                          #
+250306Thu181650-10945   >############################################
+250306Thu181650-10946   >
+250306Thu181650-10946   > 0      - All test directories
+250306Thu181650-10947   >
+250306Thu181650-10947   > 1      - TC_0Init
+250306Thu181650-10949   > 2      - TC_ATS
+250306Thu181650-10950   >
+250306Thu181650-10950   > X          - Exit
+250306Thu181650-10950   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181650-10951   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181650-10951   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181650-10952   > t          - Timer
+250306Thu181650-10952   > h          - Hardware commands
+250306Thu181650-10952   > s          - Software commands
+250306Thu181650-10953   > f          - Set firmware features
+250306Thu181650-10953   > file       - Execute test case IDs listed in a file
+250306Thu181650-10954   > all        - Show all test directory
+250306Thu181650-10954   > IniDir     - Show initial test directory
+250306Thu181650-10954   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181650-10955   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181650-10955   > cmd        - Enter TCL commands
+250306Thu181650-10956   > new        - Initialize new Data base test log
+250306Thu181650-10956   > del        - Delete current database test log
+250306Thu181650-10956   > delOld     - Delete old data base test log
+250306Thu181650-10957   > open       - Open serial port
+250306Thu181650-10957   > close      - Close serial port
+250306Thu181650-10958   > on         - Switch current device on
+250306Thu181650-10958   > off        - Switch current device off
+250306Thu181650-10958   > ActDev     - Set active device
+250306Thu181650-10959   > ShowBit    - Show all bits set in a given parameter
+250306Thu181650-10959   > check      - Check if everything is ready for a test-run
+250306Thu181650-10960   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181650-10960   >
+250306Thu181650-10960   > Test directories or files can be combined 
+250306Thu181650-10961   > with current run (e.g. 3 8 6+)
+250306Thu181650-10961   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181650-10961   >
+250306Thu181653-13980 ??>Menu point ? 1
+250306Thu181653-13981   >
+250306Thu181724-44547   >SetPrio: PriorityClass: High
+250306Thu181724-44548   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8131 Desc.: Default_2025-03-06 18:17:24
+ Table Log_8131_1 was generated
+250306Thu181724-44576   >-----------------------------------------------
+250306Thu181724-44578   >ATTENTION: the script process is logged in following media:
+250306Thu181724-44578   > - LogFiles, -genereated on the local machine
+250306Thu181724-44578   > - SQL database
+250306Thu181724-44579   >-----------------------------------------------
+250306Thu181724-44579 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu181724-44580   :      Call Stack frame:
+250306Thu181724-44580   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu181724-44581 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu181724-44582   :      Call Stack frame:
+250306Thu181724-44583   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu181724-44584 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu181724-44584   :      Call Stack frame:
+250306Thu181724-44585   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu181724-44707   >--- ModSetTimeout
+250306Thu181724-44708   >originally Modbus readintervaltimeout: 40 ms
+250306Thu181724-44709   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu181724-44710   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu181724-44710   >set new Modbus readintervaltimeout: 40 ms
+250306Thu181724-44710   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu181724-44711   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu181724-44817   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu181724-44910   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu181724-44929   >ModBus TCP port 192.168.100.200 is open
+250306Thu181724-44931   >
+250306Thu181724-44932   >===============================================================
+250306Thu181724-44933   >Testturm started by SESA598911 at Thu 06.03.25 18:17
+250306Thu181724-44933   >===============================================================
+250306Thu181724-44934   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu181724-44934   >-----------------------------------------------
+250306Thu181724-44935   >Choice of device configuration
+250306Thu181724-44935   >-----------------------------------------------
+250306Thu181724-44935   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu181724-44936   >-----------------------------------------------
+250306Thu181726-46950 ??>device configuration: ? 1
+250306Thu181726-46950   >Fin de towerDisplayDrives
+250306Thu181726-46952   >physicalActDev : 2 
+250306Thu181726-46953   >configurationActDev : 1
+250306Thu181726-46962   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu181727-47404   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu181728-48439   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu181728-48441   >Actual bus interface: MOD
+250306Thu181728-48442   >TlDebugLevel 0
+250306Thu181728-48454   >
+250306Thu181728-48455   >############################################
+250306Thu181728-48456   >#        MAIN-MENU                         #
+250306Thu181728-48457   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu181728-48457   >#                                          #
+250306Thu181728-48458   >############################################
+250306Thu181728-48458   >
+250306Thu181728-48458   > 0      - All test directories
+250306Thu181728-48459   >
+250306Thu181728-48459   > 1      - TC_0Init
+250306Thu181728-48460   > 2      - TC_ATS
+250306Thu181728-48460   >
+250306Thu181728-48460   > X          - Exit
+250306Thu181728-48461   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu181728-48461   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu181728-48462   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu181728-48462   > t          - Timer
+250306Thu181728-48462   > h          - Hardware commands
+250306Thu181728-48463   > s          - Software commands
+250306Thu181728-48463   > f          - Set firmware features
+250306Thu181728-48463   > file       - Execute test case IDs listed in a file
+250306Thu181728-48464   > all        - Show all test directory
+250306Thu181728-48464   > IniDir     - Show initial test directory
+250306Thu181728-48464   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu181728-48465   > clear      - Delete TXT log files and default test runs in data base
+250306Thu181728-48465   > cmd        - Enter TCL commands
+250306Thu181728-48465   > new        - Initialize new Data base test log
+250306Thu181728-48466   > del        - Delete current database test log
+250306Thu181728-48466   > delOld     - Delete old data base test log
+250306Thu181728-48466   > open       - Open serial port
+250306Thu181728-48467   > close      - Close serial port
+250306Thu181728-48467   > on         - Switch current device on
+250306Thu181728-48467   > off        - Switch current device off
+250306Thu181728-48468   > ActDev     - Set active device
+250306Thu181728-48468   > ShowBit    - Show all bits set in a given parameter
+250306Thu181728-48471   > check      - Check if everything is ready for a test-run
+250306Thu181728-48476   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu181728-48476   >
+250306Thu181728-48476   > Test directories or files can be combined 
+250306Thu181728-48477   > with current run (e.g. 3 8 6+)
+250306Thu181728-48477   > or with repeats (e.g. 3 8 6 4x)
+250306Thu181728-48477   >
+250306Thu181734-54809 ??>Menu point ? 1 2
+250306Thu181734-54809   >
+250306Thu181734-54812   >=============================================================
+250306Thu181734-54812   >Start category TC_0Init
+250306Thu181734-54813   >=============================================================
+250306Thu181734-54846   >=============================================================
+250306Thu181734-54847   >Start category TC_ATS
+250306Thu181734-54849   >=============================================================
+250306Thu182107-67556   >SetPrio: PriorityClass: High
+250306Thu182107-67557   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8132 Desc.: Default_2025-03-06 18:21:07
+ Table Log_8132_1 was generated
+250306Thu182107-67595   >-----------------------------------------------
+250306Thu182107-67597   >ATTENTION: the script process is logged in following media:
+250306Thu182107-67598   > - LogFiles, -genereated on the local machine
+250306Thu182107-67598   > - SQL database
+250306Thu182107-67598   >-----------------------------------------------
+250306Thu182107-67599 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h not available!
+250306Thu182107-67600   :      Call Stack frame:
+250306Thu182107-67600   :      - ReadLXMObjectListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu182107-67601 ==>[,,0]File <C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt> not available !
+250306Thu182107-67602   :      Call Stack frame:
+250306Thu182107-67602   :      - ReadLXMLimitCheckFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu182107-67603 ==>[,,0]File C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt not available!
+250306Thu182107-67603   :      Call Stack frame:
+250306Thu182107-67604   :      - ReadVARListFile C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt 0
+250306Thu182107-67719   >--- ModSetTimeout
+250306Thu182107-67720   >originally Modbus readintervaltimeout: 40 ms
+250306Thu182107-67721   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu182107-67721   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu182107-67722   >set new Modbus readintervaltimeout: 40 ms
+250306Thu182107-67722   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu182107-67722   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu182107-67828   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu182107-67922   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu182107-67953   >ModBus TCP port 192.168.100.200 is open
+250306Thu182107-67956   >
+250306Thu182107-67957   >===============================================================
+250306Thu182107-67957   >Testturm started by SESA598911 at Thu 06.03.25 18:21
+250306Thu182107-67958   >===============================================================
+250306Thu182107-67959   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu182107-67959   >-----------------------------------------------
+250306Thu182107-67959   >Choice of device configuration
+250306Thu182107-67960   >-----------------------------------------------
+250306Thu182107-67960   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu182107-67960   >-----------------------------------------------
+250306Thu182109-69348 ??>device configuration: ? 1
+250306Thu182109-69349   >Fin de towerDisplayDrives
+250306Thu182109-69351   >physicalActDev : 2 
+250306Thu182109-69351   >configurationActDev : 1
+250306Thu182109-69354   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu182109-69777   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu182110-70797   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu182110-70799   >Actual bus interface: MOD
+250306Thu182110-70800   >TlDebugLevel 0
+250306Thu182110-70805   >
+250306Thu182110-70806   >############################################
+250306Thu182110-70807   >#        MAIN-MENU                         #
+250306Thu182110-70807   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu182110-70807   >#                                          #
+250306Thu182110-70808   >############################################
+250306Thu182110-70808   >
+250306Thu182110-70808   > 0      - All test directories
+250306Thu182110-70809   >
+250306Thu182110-70809   > 1      - TC_0Init
+250306Thu182110-70810   > 2      - TC_ATS
+250306Thu182110-70810   >
+250306Thu182110-70810   > X          - Exit
+250306Thu182110-70811   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu182110-70811   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu182110-70812   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu182110-70812   > t          - Timer
+250306Thu182110-70813   > h          - Hardware commands
+250306Thu182110-70813   > s          - Software commands
+250306Thu182110-70813   > f          - Set firmware features
+250306Thu182110-70814   > file       - Execute test case IDs listed in a file
+250306Thu182110-70814   > all        - Show all test directory
+250306Thu182110-70815   > IniDir     - Show initial test directory
+250306Thu182110-70815   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu182110-70815   > clear      - Delete TXT log files and default test runs in data base
+250306Thu182110-70816   > cmd        - Enter TCL commands
+250306Thu182110-70816   > new        - Initialize new Data base test log
+250306Thu182110-70817   > del        - Delete current database test log
+250306Thu182110-70820   > delOld     - Delete old data base test log
+250306Thu182110-70820   > open       - Open serial port
+250306Thu182110-70821   > close      - Close serial port
+250306Thu182110-70821   > on         - Switch current device on
+250306Thu182110-70822   > off        - Switch current device off
+250306Thu182110-70822   > ActDev     - Set active device
+250306Thu182110-70822   > ShowBit    - Show all bits set in a given parameter
+250306Thu182110-70823   > check      - Check if everything is ready for a test-run
+250306Thu182110-70823   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu182110-70824   >
+250306Thu182110-70824   > Test directories or files can be combined 
+250306Thu182110-70824   > with current run (e.g. 3 8 6+)
+250306Thu182110-70825   > or with repeats (e.g. 3 8 6 4x)
+250306Thu182110-70825   >
+250306Thu182118-78238 ??>Menu point ? 1
+250306Thu182118-78241   >
+250306Thu182551-51450   >SetPrio: PriorityClass: High
+250306Thu182551-51450   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8133 Desc.: Default_2025-03-06 18:25:51
+ Table Log_8133_1 was generated
+250306Thu182551-51492   >-----------------------------------------------
+250306Thu182551-51494   >ATTENTION: the script process is logged in following media:
+250306Thu182551-51494   > - LogFiles, -genereated on the local machine
+250306Thu182551-51494   > - SQL database
+250306Thu182551-51495   >-----------------------------------------------
+250306Thu182551-51495   >**** Oeffne Datei: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu182551-51520   >**** Schliesse Datei: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu182551-51523   >**** open file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu182551-51530   >**** close file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu182551-51531   >**** Open file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt
+250306Thu182551-51801   >**** Close file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt
+250306Thu182551-51922   >--- ModSetTimeout
+250306Thu182551-51924   >originally Modbus readintervaltimeout: 40 ms
+250306Thu182551-51925   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu182551-51925   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu182551-51926   >set new Modbus readintervaltimeout: 40 ms
+250306Thu182551-51926   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu182551-51927   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu182552-52029   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu182552-52122   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu182552-52139   >ModBus TCP port 192.168.100.200 is open
+250306Thu182552-52141   >
+250306Thu182552-52142   >===============================================================
+250306Thu182552-52143   >Testturm started by SESA598911 at Thu 06.03.25 18:25
+250306Thu182552-52143   >===============================================================
+250306Thu182552-52144   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu182552-52145   >-----------------------------------------------
+250306Thu182552-52145   >Choice of device configuration
+250306Thu182552-52145   >-----------------------------------------------
+250306Thu182552-52146   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu182552-52146   >-----------------------------------------------
+250306Thu182601-61148 ??>device configuration: ? 1
+250306Thu182601-61149   >Fin de towerDisplayDrives
+250306Thu182601-61150   >physicalActDev : 2 
+250306Thu182601-61151   >configurationActDev : 1
+250306Thu182601-61154   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu182601-61584   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu182602-62665   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu182602-62667   >Actual bus interface: MOD
+250306Thu182602-62667   >TlDebugLevel 0
+250306Thu182602-62671   >
+250306Thu182602-62672   >############################################
+250306Thu182602-62672   >#        MAIN-MENU                         #
+250306Thu182602-62673   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu182602-62673   >#                                          #
+250306Thu182602-62673   >############################################
+250306Thu182602-62674   >
+250306Thu182602-62674   > 0      - All test directories
+250306Thu182602-62674   >
+250306Thu182602-62675   > 1      - TC_0Init
+250306Thu182602-62675   > 2      - TC_ATS
+250306Thu182602-62676   >
+250306Thu182602-62676   > X          - Exit
+250306Thu182602-62676   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu182602-62677   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu182602-62677   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu182602-62677   > t          - Timer
+250306Thu182602-62678   > h          - Hardware commands
+250306Thu182602-62678   > s          - Software commands
+250306Thu182602-62679   > f          - Set firmware features
+250306Thu182602-62679   > file       - Execute test case IDs listed in a file
+250306Thu182602-62679   > all        - Show all test directory
+250306Thu182602-62680   > IniDir     - Show initial test directory
+250306Thu182602-62680   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu182602-62680   > clear      - Delete TXT log files and default test runs in data base
+250306Thu182602-62681   > cmd        - Enter TCL commands
+250306Thu182602-62681   > new        - Initialize new Data base test log
+250306Thu182602-62681   > del        - Delete current database test log
+250306Thu182602-62682   > delOld     - Delete old data base test log
+250306Thu182602-62682   > open       - Open serial port
+250306Thu182602-62684   > close      - Close serial port
+250306Thu182602-62685   > on         - Switch current device on
+250306Thu182602-62685   > off        - Switch current device off
+250306Thu182602-62686   > ActDev     - Set active device
+250306Thu182602-62686   > ShowBit    - Show all bits set in a given parameter
+250306Thu182602-62686   > check      - Check if everything is ready for a test-run
+250306Thu182602-62687   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu182602-62687   >
+250306Thu182602-62687   > Test directories or files can be combined 
+250306Thu182602-62688   > with current run (e.g. 3 8 6+)
+250306Thu182602-62688   > or with repeats (e.g. 3 8 6 4x)
+250306Thu182602-62688   >
+250306Thu182604-64918 ??>Menu point ? 1
+250306Thu182604-64919   >
+250306Thu183128-88562   >
+250306Thu183128-88563   >############################################
+250306Thu183128-88563   >#        MAIN-MENU                         #
+250306Thu183128-88564   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu183128-88564   >#                                          #
+250306Thu183128-88564   >############################################
+250306Thu183128-88565   >
+250306Thu183128-88565   > 0      - All test directories
+250306Thu183128-88566   >
+250306Thu183128-88566   > 1      - TC_0Init
+250306Thu183128-88566   > 2      - TC_ATS
+250306Thu183128-88567   >
+250306Thu183128-88567   > X          - Exit
+250306Thu183128-88569   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu183128-88569   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu183128-88569   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu183128-88570   > t          - Timer
+250306Thu183128-88570   > h          - Hardware commands
+250306Thu183128-88571   > s          - Software commands
+250306Thu183128-88571   > f          - Set firmware features
+250306Thu183128-88571   > file       - Execute test case IDs listed in a file
+250306Thu183128-88572   > all        - Show all test directory
+250306Thu183128-88572   > IniDir     - Show initial test directory
+250306Thu183128-88573   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu183128-88573   > clear      - Delete TXT log files and default test runs in data base
+250306Thu183128-88574   > cmd        - Enter TCL commands
+250306Thu183128-88574   > new        - Initialize new Data base test log
+250306Thu183128-88575   > del        - Delete current database test log
+250306Thu183128-88575   > delOld     - Delete old data base test log
+250306Thu183128-88575   > open       - Open serial port
+250306Thu183128-88576   > close      - Close serial port
+250306Thu183128-88576   > on         - Switch current device on
+250306Thu183128-88577   > off        - Switch current device off
+250306Thu183128-88577   > ActDev     - Set active device
+250306Thu183128-88578   > ShowBit    - Show all bits set in a given parameter
+250306Thu183128-88578   > check      - Check if everything is ready for a test-run
+250306Thu183128-88579   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu183128-88579   >
+250306Thu183128-88579   > Test directories or files can be combined 
+250306Thu183128-88580   > with current run (e.g. 3 8 6+)
+250306Thu183128-88580   > or with repeats (e.g. 3 8 6 4x)
+250306Thu183128-88581   >
+250306Thu183131-91168 ??>Menu point ? 2
+250306Thu183131-91169   >
+250306Thu183319-99553   >SetPrio: PriorityClass: High
+250306Thu183319-99554   >GetPrio: Current PriorityClass: High
+ Generate test run: ID: 8134 Desc.: Default_2025-03-06 18:33:19
+ Table Log_8134_1 was generated
+250306Thu183319-99591   >-----------------------------------------------
+250306Thu183319-99593   >ATTENTION: the script process is logged in following media:
+250306Thu183319-99594   > - LogFiles, -genereated on the local machine
+250306Thu183319-99594   > - SQL database
+250306Thu183319-99595   >-----------------------------------------------
+250306Thu183319-99595   >**** Oeffne Datei: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu183319-99620   >**** Schliesse Datei: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/objdefs.h
+250306Thu183319-99622   >**** open file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu183319-99629   >**** close file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/limitcheck.txt
+250306Thu183319-99629   >**** Open file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt
+250306Thu183319-99799   >**** Close file: C:/Unifast/data/TclToPython/ObjektDB/LXM_Load/0MAIN.txt
+250306Thu183319-99914   >--- ModSetTimeout
+250306Thu183319-99915   >originally Modbus readintervaltimeout: 40 ms
+250306Thu183319-99916   >originally Modbus readtotaltimeout   : 2000 ms
+250306Thu183319-99917   >originally Modbus writetotaltimeout  : 1000 ms
+250306Thu183319-99919   >set new Modbus readintervaltimeout: 40 ms
+250306Thu183319-99920   >set new Modbus readtotaltimeout   : 2000 ms
+250306Thu183319-99920   >set new Modbus writetotaltimeout  : 2000 ms
+250306Thu183320-00024   >Set ModBus DLL Error-Code Ini Path on C:/Unifast/data/TclToPython/ObjektDB/LXM_Load
+250306Thu183320-00138   >Open ModBus TCP port 192.168.100.200 to Wago
+250306Thu183320-00150   >ModBus TCP port 192.168.100.200 is open
+250306Thu183320-00152   >
+250306Thu183320-00153   >===============================================================
+250306Thu183320-00154   >Testturm started by SESA598911 at Thu 06.03.25 18:33
+250306Thu183320-00154   >===============================================================
+250306Thu183320-00155   >Kala/Nera Fieldbus Device -> Programnumber XXXX
+250306Thu183320-00155   >-----------------------------------------------
+250306Thu183320-00156   >Choice of device configuration
+250306Thu183320-00156   >-----------------------------------------------
+250306Thu183320-00157   > 1 - ATS 48OPT - Device 2B - Applicative & Ethernet Embedded 
+250306Thu183320-00157   >-----------------------------------------------
+250306Thu183321-01699 ??>device configuration: ? 1
+250306Thu183321-01700   >Fin de towerDisplayDrives
+250306Thu183321-01702   >physicalActDev : 2 
+250306Thu183321-01702   >configurationActDev : 1
+250306Thu183321-01711   >open parameter database: C:/Unifast/data/TclToPython/ObjektDB/AltiLab_KOP_OPTIM.xml
+250306Thu183322-02168   >Reading FFT146_Status&Alarm_Synthesis.csv in progress...
+250306Thu183323-03238   >Switch bus interface to Modbus-RS485 with Altivar via: cmd_MOD_ATV_tlxxx
+250306Thu183323-03240   >Actual bus interface: MOD
+250306Thu183323-03241   >TlDebugLevel 0
+250306Thu183323-03244   >
+250306Thu183323-03245   >############################################
+250306Thu183323-03246   >#        MAIN-MENU                         #
+250306Thu183323-03246   >#  {ATS 48OPT - Device 2B - Applicative & Ethernet Embedded}        # 
+250306Thu183323-03247   >#                                          #
+250306Thu183323-03247   >############################################
+250306Thu183323-03248   >
+250306Thu183323-03248   > 0      - All test directories
+250306Thu183323-03249   >
+250306Thu183323-03249   > 1      - TC_0Init
+250306Thu183323-03249   > 2      - TC_ATS
+250306Thu183323-03250   >
+250306Thu183323-03250   > X          - Exit
+250306Thu183323-03251   > +          - Add close to the last number for permanent run test (e.g. "1+")
+250306Thu183323-03251   > -          - Add close to the 0 for reduced endurance test (e.g. "0+")
+250306Thu183323-03251   > 'repeat'x  - Attach run with x repeats (e.g. "1 3x" for 3 repeats)
+250306Thu183323-03252   > t          - Timer
+250306Thu183323-03252   > h          - Hardware commands
+250306Thu183323-03253   > s          - Software commands
+250306Thu183323-03253   > f          - Set firmware features
+250306Thu183323-03253   > file       - Execute test case IDs listed in a file
+250306Thu183323-03254   > all        - Show all test directory
+250306Thu183323-03254   > IniDir     - Show initial test directory
+250306Thu183323-03254   > 'xx' quit  - Raise/Lower flag to kill Unifast at the end of next test (current status: 0)
+250306Thu183323-03255   > clear      - Delete TXT log files and default test runs in data base
+250306Thu183323-03255   > cmd        - Enter TCL commands
+250306Thu183323-03255   > new        - Initialize new Data base test log
+250306Thu183323-03256   > del        - Delete current database test log
+250306Thu183323-03256   > delOld     - Delete old data base test log
+250306Thu183323-03256   > open       - Open serial port
+250306Thu183323-03259   > close      - Close serial port
+250306Thu183323-03259   > on         - Switch current device on
+250306Thu183323-03260   > off        - Switch current device off
+250306Thu183323-03260   > ActDev     - Set active device
+250306Thu183323-03261   > ShowBit    - Show all bits set in a given parameter
+250306Thu183323-03261   > check      - Check if everything is ready for a test-run
+250306Thu183323-03261   > export     - Exports the campaign synthesys at the end of the campaign
+250306Thu183323-03262   >
+250306Thu183323-03262   > Test directories or files can be combined 
+250306Thu183323-03262   > with current run (e.g. 3 8 6+)
+250306Thu183323-03263   > or with repeats (e.g. 3 8 6 4x)
+250306Thu183323-03263   >
+250306Thu183326-06629 ??>Menu point ? 2
+250306Thu183326-06630   >

@@ -1,0 +1,1486 @@
+List ID	Displayed	Element ID	Value	Label	Description	Drivecom	File
+
+							
+ACT	always	...	...	...	Affectations paramètre TUS		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoTuning.xml
+		TAB	0	TAB	Default value of the stator resistor is used to control the motor		
+		PEND	1	PEND	Autotune has been asked but not yet performed		
+		PROG	2	PROG	Autotune is in progress		
+		FAIL	3	FAIL	Autotune has failed		
+		DONE	4	DONE	The drive management uses the stator resistor measured by the auto-tuning function		
+
+							
+ACTION	always	...	...	...	Affectations paramètre TUN		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoTuning.xml
+		NO	0	NO	No action		
+		YES	1	YES	Action asked		
+		CLR	2	CLR	Erase results		
+
+							
+ADC	always	...	...	...	Type d'injection Auto		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoDirectCurrent.xml
+		NO	0	NO	No DC injected current		
+		YES	1	YES	Time limited DC injection		
+		CT	2	CT	Continuous DC injection		
+
+							
+AIOL	always	...	...	...	Analog input output range list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAnalogicalInputConfiguration.xml
+		POS	0	POS	Positive logical		
+		POSNEG	1	NEG	Positive and negative logical		
+
+							
+AIOT	always	...	...	...	Analog input output type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAnalogicalInputConfiguration.xml
+		10U	1	10U	0-10 Volts		
+		0A	2	0A	0-20 mA		
+		N10U	5	N10U	-10/+10 Volts		
+
+							
+ALG	always	...	...	...	alarm group active		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		___	0	---			
+		1__	1	1--			
+		_2_	2	-2-			
+		12_	3	12-			
+		__3	4	--3			
+		1_3	5	1-3			
+		_23	6	-23			
+		123	7	123			
+
+							
+ALTCE	never	...	...	...	Modbus Serveur for Option Board		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsAlcan2.xml
+		BG	0	BG	Background		
+		FAST	1	FAST	Fast task		
+		UNK	2	UNK	Unknown for test		
+
+							
+ASOD	never	...	...	...	Angle setting optimization status list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctMotorFluxing.xml
+		NO	0	NO	No done		
+		Y_M0	1	Y_M0	Done on Motor 0		
+		Y_M1	2	Y_M1	Done on Motor 1		
+		Y_M2	3	Y_M2	Done on Motor 2		
+
+							
+AST	always	...	...	...	Auto angle setting type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctMotorFluxing.xml
+		IPMA	3	IPMA	Alignment for IPM motor		
+		SPMA	4	SPMA	Alignment for SPM motor		
+		PSI	5	PSI	Pulse Signal Injection (previous name BRC)		
+		PSIO	6	PSIO	Pulse Signal Injection - Optimized (previous name BRCO)		
+		NO	254	NO	No alignment		
+
+							
+BDCO	always	...	...	...	Terminal CANopen : Baud rate list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsCanOpenParameters.xml
+		50K	38	50K	50 000 Bauds		
+		125K	52	125K	125 000 Bauds		
+		250K	60	250K	250 000 Bauds		
+		500K	68	500K	500 000 Bauds		
+		1M	76	1M	1 MBauds		
+
+							
+BEN	always	...	...	...	Frequency brake engage threshold list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctBrakeSequence.xml
+		AUTO	-1	AUTO	Nominal value		
+
+							
+BFR	always	...	...	...	Basic frequency list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		50Hz	0	50	Drive 50 Hz		
+		60Hz	1	60	Drive 60 Hz		
+
+							
+BIP	always	...	...	...	Brake impulse list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctBrakeSequence.xml
+		NO	0	NO	No		
+		YES	1	YES	Yes		
+		2IBR	2	2IBR	2Ibr		
+
+							
+BLC	always	...	...	...	Brake function assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctBrakeSequence.xml
+		NO	0	NO	No		
+		R2	2	R2	Relay R2		
+		LO1	17	LO1	Logical output LO1		
+		DO1	64	DO1	Logical output DO1		
+
+							
+BMP	always	...	...	...	Bumpless type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctKeyboardManagement.xml
+		STOP	0	STOP	Stop		
+		BUMP	1	BUMP	Bumpless		
+
+							
+BOA	always	...	...	...	Boost activation		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntMotor.xml
+		NO	0	NO	No boost		
+		DYNA	1	DYNA	"Dynamic boost (FAB, BOO managed by default value in MC)"		
+		STAT	2	STAT	Static boost		
+
+							
+BRA	always	...	...	...	Braking function assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntRegDCLink.xml
+		NO	0	NO	Braking command transistor		
+		YES	1	YES	Braking adaptation		
+		DYNA	2	DYNA	High braking adaptation (type A)		
+
+							
+BSP	always	...	...	...	Low speed management list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctSpeedTemplate.xml
+		BSD	0	BSD	Standard		
+		BLS	1	BLS	DeadBand		
+		BNS	2	BNS	Pedestral		
+		BNS0	4	BNS0	Pedestal at 0 %		
+
+							
+BST	always	...	...	...	Brake sequence type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctBrakeSequence.xml
+		HOR	0	HOR	Horizontal brake sequence		
+		VER	1	VER	Vertical brake sequence		
+
+							
+CDX	always	...	...	...	Channel X command source list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctChannelManagement.xml
+		TER	1	TER	Terminal block source		
+		LOC	2	LOC	Local keypad source		
+		LCC	3	LCC	External keypad source		
+		MDB	10	MDB	Modbus source		
+		CAN	20	CAN	CANopen source		
+		NET	30	NET	Communication option board source		
+
+							
+CFG	always	...	...	...	Macro configuration list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppBase.xml
+		STS	0	STS	Start / stop		
+		HDG	1	HDG	Material handling		
+		HST	2	HST	Hoisting		
+		GEN	3	GEN	General use		
+		PID	4	PID	PID regulation		
+		NET	5	NET	Fieldbus connexion		
+
+							
+CFPS	always	...	...	...	Configuration parameter status list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctParameterSwitching.xml
+		NO	0	NO	Not assigned		
+		CFP1	1	CFP1	Parameter set 1 active		
+		CFP2	2	CFP2	Parameter set 2 active		
+		CFP3	3	CFP3	Parameter set 3 active		
+
+							
+CGTY	always	...	...	...	Factory setting choice list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgConfigPrm.xml
+		CUS	0	CUS	Customer factory setting		
+		OEM	10	OEM	OEM factory setting		
+
+							
+CHCF	always	...	...	...	Channel configuration list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctChannelManagement.xml
+		SIM	1	SIM	Simple mode		
+		SEP	2	SEP	Separate mode		
+		IO	3	IO	I/O mode		
+
+							
+CIOA	always	...	...	...	Configured Assembly		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOption.xml
+		20	0	20			
+		21	1	21			
+		100	2	100			
+		UNCG	3	UNCG			
+
+							
+CNFS	always	...	...	...	Configuration Status list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgConfigPrm.xml
+		NO	0	NO	Transitory state (configuration changing)		
+		CNF0	1	CNF0	Configuration 0 active		
+		CNF1	2	CNF1	Configuration 1 active		
+		CNF2	3	CNF2	Configuration 2 active		
+
+							
+CNL	always	...	...	...	format of canal (command or reference)		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		TER	0	Term			
+		LOC	1	LOC			
+		LCC	2	HMI			
+		MDB	3	MDB			
+		CAN	6	CAN			
+		TUD	7	TUD			
+		LUD	8	LUD			
+		NET	9	NET			
+		IND	14	IND			
+		PWS	15	PWS			
+
+							
+COM1	always	...	...	...	Modbus Port 1 led display		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsModbus.xml
+		R0T0	0	R0T0	R0T0		
+		R0T1	1	R0T1	R0T1		
+		R1T0	2	R1T0	R1T0		
+		R1T1	3	R1T1	R1T1		
+
+							
+COP	always	...	...	...	Keep run order at switching list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctChannelManagement.xml
+		NO	0	NO	No copy		
+		SP	1	SP	Copy only the speed references		
+		CD	2	CD	Copy only the command words		
+		ALL	3	ALL	Copy both the commands and the references		
+
+							
+CSA	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpAnalogPorts.xml
+		NO	0	NO	Not assigned		
+		AO1	1	AO1	Analogical output AO1		
+		AIFR1	129	FR1	Reference source 1		
+		AIFR2	130	FR2	Reference source 2		
+		AISA2	131	SA2	Summing reference 2		
+		AIPIF	132	PIF	PI feedback (PI control)		
+		AITAA	136	TAA	Torque limitation : Activation by an analog value		
+		AIDA2	137	DA2	Subtracting reference 2		
+		AIPIM	138	PIM	Manual speed reference of the PI(D) regulator (auto-man)		
+		AIFPI	139	FPI	Speed reference of the PI(D) regulator (predictive reference)		
+		AISA3	160	SA3	Summing reference 3		
+		AIFR1B	161	FR1B	Reference source 1B		
+		AIDA3	162	DA3	Subtracting reference 3		
+		AIFLOC	163	FLOC	Forced local reference source		
+		AIMA2	164	MA2	Multiplying reference 2		
+		AIMA3	165	MA3	Multiplying reference 3		
+		AIPES	167	PES	Lift : External weight measurement function		
+		AIAIC2	170	AIC2	Virtual AI2 channel selector function		
+		IA01	190	IA01	Functions blocks : Analog Input 01		
+		IA02	191	IA02	Functions blocks : Analog Input 02		
+		IA03	192	IA03	Functions blocks : Analog Input 03		
+		IA04	193	IA04	Functions blocks : Analog Input 04		
+		IA05	194	IA05	Functions blocks : Analog Input 05		
+		IA06	195	IA06	Functions blocks : Analog Input 06		
+		IA07	196	IA07	Functions blocks : Analog Input 07		
+		IA08	197	IA08	Functions blocks : Analog Input 08		
+		IA09	198	IA09	Functions blocks : Analog Input 09		
+		IA10	199	IA10	Functions blocks : Analog Input 10		
+
+							
+CSL	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpLogicPorts.xml
+		NO	0	NO	Not assigned		
+		LIRUN	1	RUN	Run Enable		
+		LIFRD	2	FRD	Forward operation		
+		LIRRS	3	RRS	Reverse operation		
+		LIRPS	4	RPS	Ramp switching		
+		LIJOG	5	JOG	Jog operation		
+		LIUSP	6	USP	+ Speed		
+		LIDSP	7	DSP	- Speed		
+		LIPS2	8	PS2	2 Preset speeds		
+		LIPS4	9	PS4	4 Preset speeds		
+		LIPS8	10	PS8	8 Preset speeds		
+		LIRFC	11	RFC	Reference switching		
+		LINST	12	NST	Freewheel stop		
+		LIDCI	13	DCI	Injection DC stop		
+		LIFST	14	FST	Fast stop		
+		LIFLO	17	FLO	Forced local mode		
+		LIRSF	18	RSF	Fault reset		
+		LITUL	19	TUL	Auto-tuning		
+		LISPM	20	SPM	Save reference		
+		LIFLI	21	FLI	Motor fluxing		
+		LIPAU	22	PAU	PI(D) auto-manu		
+		LIPIS	23	PIS	Integral shunting PI(D)		
+		LIPR2	24	PR2	2 Preset PI(D) references		
+		LIPR4	25	PR4	4 Preset PI(D) references		
+		LITLA	26	TLA	Permanent torque limitation		
+		LIETF	27	ETF	External fault		
+		LIRCA	30	RCA	Downstream contactor feedback		
+		LICNF1	33	CNF1	Configuration switching 1		
+		LICNF2	34	CNF2	Configuration switching 2		
+		LICHA1	35	CHA1	Parameter switching 1		
+		LICHA2	36	CHA2	Parameter switching 2		
+		LITLC	37	TLC	Torque limitation : Activation (analog input) by a logic input		
+		LICCS	40	CCS	Command channel switching		
+		LIINH	41	INH	Fault inhibition		
+		LIPS16	42	PS16	16 preset speeds		
+		LILC2	43	LC2	Current limitation switching		
+		LIRCB	46	RCB	Reference channel switching (1 to 1B)		
+		LITRC	47	TRC	Traverse control		
+		LIBCI	51	BCI	Brake logic input contact		
+		LISAF	56	SAF	Stop switch forward		
+		LISAR	57	SAR	Stop switch reverse		
+		LIDAF	58	DAF	Slowdown attained forward		
+		LIDAR	59	DAR	Slowdown attained reverse		
+		LICLS	60	CLS	Limits switches clearing		
+		LILES	61	LES	Emergency stop		
+		LIRTR	62	RTR	Reload traverse control		
+		LISNC	64	SNC	Counter wobble synchronization		
+		LIRPA	66	RPA	Reset Product		
+		LISH2	72	SH2	High Speed 2		
+		LISH4	73	SH4	High Speed 4		
+		LO1	129	LO1	Logical output LO1		
+		R1	145	R1	Relay R1		
+		R2	146	R2	Relay R2		
+		DO1	161	DO1	Analogical/logical output DO1		
+		BTUC	178	BTUC	Bluetooth visibility		
+		FNJOG	180	FJOG	Function key jog affectation		
+		FNPS1	181	FPS1	Function key preset speed 1 affectation		
+		FNPS2	182	FPS2	Function key preset speeed 2 affectation		
+		FNPR1	183	FPR1	Function key preset PI 1 affectation		
+		FNPR2	184	FPR2	Function key preset PI 2 affectation		
+		FNUSP	185	FUSP	Function key faster affectation		
+		FNDSP	186	FDSP	Function key slower affectation		
+		FNTK	187	FTK	Function key bumpless affectation		
+		LIUSI	188	USI	+ Speed around ref		
+		LIDSI	189	DSI	- Speed around ref		
+		IL01	190	IL01	Functions blocks : Logical Input 01		
+		IL02	191	IL02	Functions blocks : Logical Input 02		
+		IL03	192	IL03	Functions blocks : Logical Input 03		
+		IL04	193	IL04	Functions blocks : Logical Input 04		
+		IL05	194	IL05	Functions blocks : Logical Input 05		
+		IL06	195	IL06	Functions blocks : Logical Input 06		
+		IL07	196	IL07	Functions blocks : Logical Input 07		
+		IL08	197	IL08	Functions blocks : Logical Input 08		
+		IL09	198	IL09	Functions blocks : Logical Input 09		
+		IL10	199	IL10	Functions blocks : Logical Input 10		
+		FBRM	202	FBRM	Functions blocks : Run mode		
+		SLS1	203	SLS1	Safety : false consumer		
+		SLS2	204	SLS2	Safety : false consumer		
+		SS11	205	SS11	Safety : false consumer		
+		SS12	206	SS12	Safety : false consumer		
+		STO1	207	STO1	Safety : false consumer		
+		STO2	208	STO2	Safety : false consumer		
+
+							
+CSLFN	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpLogicPorts.xml
+		NO	0	NO	Not assigned		
+		FNJOG	180	FJOG	Function key jog affectation		
+		FNPS1	181	FPS1	Function key preset speed 1 affectation		
+		FNPS2	182	FPS2	Function key preset speeed 2 affectation		
+		FNPR1	183	FPR1	Function key preset PI 1 affectation		
+		FNPR2	184	FPR2	Function key preset PI 2 affectation		
+		FNUSP	185	FUSP	Function key faster affectation		
+		FNDSP	186	FDSP	Function key slower affectation		
+		FNTK	187	FTK	Function key bumpless affectation		
+
+							
+CSLOUT	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpLogicPorts.xml
+		NO	0	NO	Not assigned		
+		LO1	129	LO1	Logical output LO1		
+		R2	146	R2	Relay R2		
+		DO1	161	DO1	Analogical/logical output DO1		
+
+							
+CST	always	...	...	...	different keypad status		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		LCK	0	LCK			
+		ULCK	1	ULCK			
+
+							
+CTT	always	...	...	...	Motor control type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntMotor.xml
+		VVC	0	VVC	Voltage vector control		
+		STD	3	STD	Standard law (U/F 2 pts)		
+		UF5	4	UF5	U/F 5 pts		
+		SYN	5	SYN	Synchronous motors		
+		UFQ	6	UFQ	U/F for quadradic loads		
+		NLD	7	NLD	Energy saving		
+
+							
+DCCC	always	...	...	...	DC Bus chaining compatibility list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctDCBusManagement.xml
+		ATV	0	ATV	Only ATV32 and 71 on DC Bus chain		
+		LHM	1	LHM	LHM32 on DC Bus Chain		
+
+							
+DCCM	always	...	...	...	DC Bus chaining mode list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctDCBusManagement.xml
+		NO	0	NO	DC Bus chaining not activated		
+		MAIN	1	MAIN	Main is connected to the drive		
+		BUS	2	BUS	Main is not connected to the drive (only DC Bus)		
+
+							
+DLR	always	...	...	...	Download rights		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgCodePrm.xml
+		DLR0	0	DLR0	"locked drive : means that the configuration can be downloaded only in a locked drive which configuration has the same password. If the passwords are different, download is not permitted"		
+		DLR1	1	DLR1	Unlocked drive : means that the configuration can be downloaded only in an drive without active password		
+		DLR2	2	DLR2	Not allowed : the configuration could never been downloaded		
+		DLR3	3	DLR3	Lock. + Not : download is permitted following case 0 or case 1		
+
+							
+DOTD	always	...	...	...	Disable operation stop mode list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppDrivecomPrj.xml
+		NST	0	NST	Disable Drive function		
+		RMP	1	RMP	Ramp stop then disable drive function		
+
+							
+DPMA	always	...	...	...	Active Master list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOption.xml
+		1	1	1	Master 1		
+		2	2	2	Master 2		
+
+							
+DSF	always	...	...	...	Limit switch deceleration adaptation list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctPositioning.xml
+		STD	0	STD	Standart		
+		OPT	1	OPT	Optimized		
+
+							
+DUR	always	...	...	...	Maximum time for automatic fault reload list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppFaultPrj.xml
+		5	0	5	5 minutes		
+		10	1	10	10 minutes		
+		30	2	30	30 minutes		
+		1H	3	1H	1 hour		
+		2H	4	2H	2 hours		
+		3H	5	3H	3 hours		
+		CT	6	CT	Continuous		
+
+							
+ECFG	always	...	...	...	Warning configuration type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppWarningMgr.xml
+		NO	0	NO	The drive ignores the fault		
+		YES	1	YES	Free wheel		
+		STT	2	STT	Stop according STT parameter. No fault after stop		
+		LFF	4	LFF	Fallback speed		
+		RLS	5	RLS	Speed kept		
+		RMP	6	RMP	Ramp stop		
+		FST	7	FST	Fast stop		
+		DCI	8	DCI	DC injection		
+
+							
+ETHM	always	...	...	...	Ethernet protocol list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOption.xml
+		MBTP	0	MBTP			
+		ETIP	1	ETIP			
+
+							
+ETST	always	...	...	...	EtherCAT slave status		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOption.xml
+		INIT	1	INIT	Init		
+		PROP	2	PROP	Pre-operational		
+		BOOT	3	BOOT	Bootstrap		
+		SFOP	4	SFOP	Safe operational		
+		OP	8	OP	Operational		
+
+							
+FBFT	always	...	...	...	Functions blocks faults		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_FunctionBlock/Src/FBPrm.xml
+		NO	0	NO	No fault		
+		INT	1	INT	FB : Internal fault		
+		BIN	2	BIN	FB : Binary fault		
+		INP	3	INP	FB : Internal parameter fault		
+		PAR	4	PAR	FB : Parameter access fault		
+		CAL	5	CAL	FB : calculation fault		
+		TOAU	6	TOAU	FB : TimeOut AUX task		
+		TOPP	7	TOPP	FB : TimeOut in PRE/POST task		
+		ADL	8	ADL	FB : ADLC with bad parameter		
+		IN	9	IN	FB : input not configured		
+
+							
+FBST	always	...	...	...	Functions blocks status		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_FunctionBlock/Src/FBPrm.xml
+		IDLE	0	IDLE	FB Idle state		
+		CHEC	1	CHEC	FB check program		
+		STOP	2	STOP	FB STOP state		
+		INIT	3	INIT	FB initialization before RUN		
+		RUN	4	RUN	FB RUN state		
+		ERR	5	ERR	FB error state		
+
+							
+FCMD	never	...	...	...	Fast scope command type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsFastScope.xml
+		STOP	0	STOP	Stop		
+		SGL	1	SGL	Single		
+		AUTO	2	AUTO	Auto		
+
+							
+FCS	never	...	...	...	Recall customer parameter set list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgConfigPrm.xml
+		NO	0	NO	No		
+		REC1	2	REC1	Recall customer parameter set 1		
+		REC2	3	REC2	Recall customer parameter set 2		
+		INI	64	INI	Recall default parameter set		
+		INI1	71	INI1	Recall OEM default parameter set		
+
+							
+FCSI	always	...	...	...	Factory/Recall setting source		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		INI	0	INI	Software default		
+		CFG1	2	CFG1	Configuration 1		
+		CFG2	3	CFG2	Configuration 2		
+
+							
+FDRA	always	...	...	...	FDR different actions		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		IDLE	0	IDLE			
+		SAVE	1	SAVE			
+		REST	2	REST			
+		DEL	3	DEL			
+
+							
+FDRE	always	...	...	...	FDR states		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		IDLE	0	IDLE			
+		INIT	1	INIT			
+		CONF	2	CONF			
+		RDY	3	RDY			
+		OPE	4	OPE			
+		UCFG	5	UCFG			
+		UNRC	6	UNRC			
+
+							
+FFM	always	...	...	...	Fan force mode list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsFanMgr.xml
+		STD	0	STD	Standard		
+		RUN	1	RUN	Force run		
+		STP	2	STP	Force stop		
+
+							
+FLU	always	...	...	...	Motor fluxing choice list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctMotorFluxing.xml
+		FNC	0	FNC	Non continuous		
+		FCT	1	FCT	Continuous		
+		FNO	2	FNO	No fluxing		
+
+							
+FOPT	never	...	...	...	Fast scope trigger operation type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsFastScope.xml
+		PSL	0	PSL	PSlope		
+		NSL	1	NSL	NSlope		
+		PNSL	2	PNSL	PNSlope		
+		INW	3	INW	InWindow		
+		OUTW	4	OUTW	OutWindow		
+		BIT	5	BIT	Bit		
+
+							
+FOR	always	...	...	...	Communication option : Frame format list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsModbus.xml
+		NO	0	NO	Not configured		
+		AUTO	1	AUTO	Automatic detection		
+		8O1	2	8o1	8.o.1.		
+		8E1	3	8E1	8.E.1.		
+		8N1	4	8n1	8.n.1.		
+		8N2	5	8n2	8.n.2.		
+		7O1	6	7o1	7.o.1.		
+		7E1	7	7E1	7.E.1.		
+		7O2	8	7o2	7.o.2.		
+		7E2	9	7E2	7.E.2.		
+
+							
+FRM	always	...	...	...	format display type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		HEX	0	HEX			
+		SIG	1	SIG			
+		NSG	2	NSG			
+
+							
+FSTS	never	...	...	...	Fast scope status type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsFastScope.xml
+		WAIT	0	WAIT	Waiting		
+		TRIG	1	TRIG	Triggering		
+		RDY	2	RDY	Ready		
+		STOP	3	STOP	Stopped		
+
+							
+FTBA	never	...	...	...	Fast scope sampling time possibility		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsFastScope.xml
+		2MS	1	2MS	2 ms / div		
+		10MS	3	10MS	10 ms / div		
+		20MS	4	20MS	20 ms / div		
+		50MS	5	50MS	50 ms / div		
+		100MS	6	100MS	100 ms / div		
+		200MS	7	200MS	200 ms / div		
+		500MS	8	500MS	500 ms / div		
+		1S	9	1S	1 s / div		
+		2S	10	2S	2 s / div		
+		5S	11	5S	5 s / div		
+		10S	12	10S	10 s / div		
+		20S	13	20S	20 s / div		
+		50S	14	50S	50 s / div		
+		100S	15	100S	100 s / div		
+		4MS	16	4MS	4 ms / div		
+
+							
+GFX	never	...	...	...	State of GFX connexion		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		NOT	0	NOT	Not connected		
+		MON	1	MON	Monopoint connection		
+		MUL	2	MUL	Multipoint connection		
+
+							
+HMIS	always	...	...	...	Product status list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/Src/HmiPrm.xml
+		TUN	0	TUN	AutoTuning		
+		DCB	1	DCB	Injection breaking		
+		RDY	2	RDY	Drive ready		
+		NST	3	NST	Freewheel stop control		
+		RUN	4	RUN	Motor in steady state or run command present and zero reference		
+		ACC	5	ACC	Acceleration		
+		DEC	6	DEC	Deceleration		
+		CLI	7	CLI	Current limit		
+		FST	8	FST	Fast stop		
+		FLU	9	FLU	Fluxing function is activated		
+		NLP	11	NLP	Control is powered on but the DC bus is not loaded		
+		PRA	12	PRA	Power removal function has been activated		
+		CTL	13	CTL	Controlled stop		
+		OBR	14	OBR	Adapted deceleration		
+		SOC	15	SOC	Stand by output cut		
+		USA	17	USA	Undervoltage alarm		
+		TC	18	TC	TC indus mode activated		
+		ST	19	ST	Self test in progress		
+		FA	20	FA	Self test fail		
+		OK	21	YES	Self test Ok		
+		EP	22	EP	Self test Eeprom fault		
+		FLT	23	FLT	Product in fault		
+		SS1	28	SS1	Safety SS1 level		
+		SLS	29	SLS	Safety SLS level		
+		STO	30	STO	Safety STO level		
+
+							
+HSO	always	...	...	...	High Speed Optimized activation function list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctHighSpeedHoisting.xml
+		NO	0	NO	Not configured		
+		SSO	1	SSO	Speed reference mode		
+		CSO	2	CSO	Currentl limitation mode		
+
+							
+INCPER	always	...	...	...	Ramp increment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctTorqueLimitation.xml
+		001	0	0.01	"0,01 %"		
+		01	1	0.1	"0,1 %"		
+		1	2	1	1 %		
+
+							
+INR	always	...	...	...	Ramp increment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntRampe.xml
+		001	0	0.01	"0,01 sec"		
+		01	1	0.1	"0,1 sec"		
+		1	2	1	1 sec		
+
+							
+INT	never	...	...	...	Torque increment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctTorqueLimitation.xml
+		001	0	0.01	"0,01 Nm"		
+		01	1	0.1	"0,1 Nm"		
+		1	2	1	1 Nm		
+		10	3	10	10 Nm		
+
+							
+IPM	always	...	...	...	IP Menu		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		MANU	0	MANU			
+		BOOTP	1	BOOTP			
+		DHCP	2	DHCP			
+
+							
+L_H	always	...	...	...	Level choice list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppBase.xml
+		LO	0	LO	Low		
+		HIG	1	HIG	High		
+
+							
+LAC	always	...	...	...	list of level access		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		BAS	0	BAS			
+		STD	1	STD			
+		ADV	2	ADV			
+		EPR	3	EPR			
+
+							
+LANG	always	...	...	...	List of language		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		LNG0	0	LNG0			
+		LNG1	1	LNG1			
+		LNG2	2	LNG2			
+		LNG3	3	LNG3			
+		LNG4	4	LNG4			
+		LNG5	5	LNG5			
+		LNG6	6	LNG6			
+		LNG7	7	LNG7			
+		LNG8	8	LNG8			
+		LNG9	9	LNG9			
+
+							
+LFT	always	...	...	...	Default type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppFaultPrj.xml
+		NOF	0	NOF	No fault memorized	DRIVECOM(0x0000)	
+		INF	1	INF	Incorrect calibration constants	DRIVECOM(0x6100)	
+		EEF1	2	EEF1	Control Eeprom failure	DRIVECOM(0x5530)	
+		CFF	3	CFF	Invalid configuration at power on	DRIVECOM(0x6300)	
+		CFI	4	CFI	Incorrect parameter configuration	DRIVECOM(0x6300)	
+		SLF1	5	SLF1	Modbus local serial communication fault	DRIVECOM(0x7510)	
+		ILF	6	ILF	Option internal link fault	DRIVECOM(0x7520)	
+		CNF	7	CNF	NET option communication fault	DRIVECOM(0x7520)	
+		EPF1	8	EPF1	External fault from LI or local link	DRIVECOM(0x9000)	
+		OCF	9	OCF	Over current fault	DRIVECOM(0x2310)	
+		CRF1	10	CRF	Load relay fault	DRIVECOM(0x1000)	
+		SPF	11	SPF	Speed encoder feedback loss	DRIVECOM(0x7310)	
+		OHF	16	OHF	Drive over heating fault	DRIVECOM(0x4210)	
+		OLF	17	OLF	Motor overload fault	DRIVECOM(0x1000)	
+		OBF	18	OBF	Over braking fault	DRIVECOM(0x3310)	
+		OSF	19	OSF	Over supply fault	DRIVECOM(0x3110)	
+		OPF1	20	OPF1	Motor 1-phase loss	DRIVECOM(0x3310)	
+		PHF	21	PHF	Main input 1-phase loss	DRIVECOM(0x3130)	
+		USF	22	USF	Under voltage fault	DRIVECOM(0x3120)	
+		SCF1	23	SCF1	Motor short circuit fault (hard detection)	DRIVECOM(0x2320)	
+		SOF	24	SOF	Over speed fault	DRIVECOM(0x1000)	
+		TNF	25	TNF	Tune fault	DRIVECOM(0xFF00)	
+		INF1	26	INF1	Unknown drive rating	DRIVECOM(0x6100)	
+		INF2	27	INF2	Unknown or incompatible power board	DRIVECOM(0x6100)	
+		INF3	28	INF3	Internal serial link communication fault	DRIVECOM(0x6100)	
+		INF4	29	INF4	Invalid industrialization zone	DRIVECOM(0x6100)	
+		EEF2	30	EEF2	Power Eeprom failure	DRIVECOM(0x5530)	
+		SCF2	31	SCF2	Impedant short-circuit fault (soft detection : sum of 3 curents > 25% InDrive)	DRIVECOM(0x2320)	
+		SCF3	32	SCF3	Direct ground short-circuit fault (hard detection)	DRIVECOM(0x2330)	
+		OPF2	33	OPF2	Motor 3-phases loss	DRIVECOM(0x3310)	
+		COF	34	COF	CANopen communication fault	DRIVECOM(0x8100)	
+		BLF	35	BLF	Brake's motor 3-phases loss	DRIVECOM(0xFF01)	
+		EPF2	38	EPF2	External fault from communication board	DRIVECOM(0x9000)	
+		BRF	41	BRF	Brake contactor failure	DRIVECOM(0x7110)	
+		SLF2	42	SLF2	Power Suite communication fault	DRIVECOM(0x7530)	
+		ECF	43	ECF	Encoder coupling failure	DRIVECOM(0x7310)	
+		SSF	44	SSF	Torque current limitation fault	DRIVECOM(0xFF02)	
+		SLF3	45	SLF3	Remote keypad communication fault	DRIVECOM(0x7510)	
+		PRF	46	PRF	Power removal fault	DRIVECOM(0xFF03)	
+		PTFL	49	PTFL	PTCL Failure (OC or SC)	DRIVECOM(0x7300)	
+		OTFL	50	OTFL	Motor over heating fault from PTCL : standard product	DRIVECOM(0x4310)	
+		INF9	51	INF9	Current measurement circuit failure	DRIVECOM(0x5210)	
+		INFA	52	INFA	Input phase loss circuit failure	DRIVECOM(0x5210)	
+		INFB	53	INFB	Thermal sensor failure (OC or SC)	DRIVECOM(0x5210)	
+		TJF	54	TJF	IGBT over heating fault	DRIVECOM(0x4210)	
+		SCF4	55	SCF4	IGBT short-circuit fault (hard detection)	DRIVECOM(0x2230)	
+		SCF5	56	SCF5	Load short-circuit fault during Igon load sequence (hard detection)	DRIVECOM(0x2320)	
+		SRF	57	SRF	Torque regulation time-out fault	DRIVECOM(0xFF02)	
+		FCF1	58	FCF1	Output contactor : closed contactor	DRIVECOM(0x5000)	
+		FCF2	59	FCF2	Output contactor : opened contactor	DRIVECOM(0x5000)	
+		AI2F	61	AI2F	AI2 protection fault	DRIVECOM(0x7300)	
+		LCF	64	LCF	Line contactor failure	DRIVECOM(0x5000)	
+		DCF	66	DCF	Differential Current Fault	DRIVECOM(0x1000)	
+		HDF	67	HDF	Hardware Fault	DRIVECOM(0x1000)	
+		INF6	68	INF6	Unknown or incompatible option board	DRIVECOM(0x7000)	
+		INFE	69	INFE	"CPU fault (ram, flash, task ...)"	DRIVECOM(0x1000)	
+		LFF3	71	LFF3	AI3 4-20 mA loss fault	DRIVECOM(0x7300)	
+		HCF	73	HCF	Hardware configuration fault	DRIVECOM(0x6100)	
+		DLF	76	DLF	Dynamic load fault	DRIVECOM(0xFF80)	
+		CFI2	77	CFI2	Configuration transfer error	DRIVECOM(0x6300)	
+		CSF	99	CSF	Channel switching fault	DRIVECOM(0x1000)	
+		ULF	100	ULF	Torque underload fault	DRIVECOM(0xFF03)	
+		OLC	101	OLC	Torque overload fault	DRIVECOM(0x2311)	
+		ASF	105	ASF	Angle Setting Fault	DRIVECOM(0x1000)	
+		SAFF	107	SAFF	Safety function fault	DRIVECOM(0xFF03)	
+		FBE	108	FBE	Functions blocks error	DRIVECOM(0x7400)	
+		FBES	109	FBES	Functions blocks stop error	DRIVECOM(0x7400)	
+
+							
+MDT	always	...	...	...	list of files of the GFX		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		DEC	0	DEC			
+		BAR	1	BAR			
+		LIST	2	LIST			
+
+							
+MPC	always	...	...	...	Motor parameter choice		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntMotor.xml
+		NPR	0	NPR			
+		COS	1	COS			
+
+							
+N_Y	always	...	...	...	Boolean choice list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppBase.xml
+		NO	0	NO	No		
+		YES	1	YES	Yes		
+
+							
+NAME	always	...	...	...	Name of product		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		UNK	0	UNK	Unknown name of product		
+		N3S	1	N3S	NANO3 SCHNEIDER		
+		N3T	2	N3T	NANO3 TOSHIBA		
+		RS3S	11	RS3S	RS3 SCHNEIDER		
+		RS3T	12	RS3T	RS3 TOSHIBA		
+		BOKS	21	BOKS	BOOK SCHNEIDER		
+
+							
+NCV	always	...	...	...	Drive rate list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		NO	0	NO	Unknown drive rate		
+		U010	1	010	0.1 kW / 0.18 Hp		
+		U018	2	018	0.18 kW / 0.25 Hp		
+		U025	3	025	0.25 kW / ??? Hp		
+		U037	4	037	0.37 kW / 0.5 Hp		
+		U055	5	055	0.55 kW / 0.75 Hp		
+		U075	6	075	0.75 kW / 1 Hp		
+		U090	7	090	0.9 kW / ??? Hp		
+		U110	8	U11	1.1 kW / 1.5 Hp		
+		U150	9	U15	1.5 kW / 2 Hp		
+		U185	10	U18	1.85 kW / ??? Hp		
+		U220	11	U22	2.2 kW / 3 Hp		
+		U300	12	U30	3 kW / 4 Hp		
+		U370	13	U37	3.7 kW / 5 Hp		
+		U400	14	U40	4 kW / ??? Hp		
+		U550	15	U55	5.5 kW / 7.5 Hp		
+		U750	16	U75	7.5 kW / 10 Hp		
+		U900	17	U90	9 kW / ??? Hp		
+		D110	18	D11	11 kW / 15 Hp		
+		D150	19	D15	15 kW / 20 Hp		
+		D185	20	D18	18.5 kW / 25 Hp		
+		D220	21	D22	22 kW / 30 Hp		
+		D300	22	D30	30 kW / 40 Hp		
+
+							
+NCVI	always	...	...	...	Internal drive rate list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		U018	0	018	0.18 kW / 0.25 Hp		
+		U037	1	037	0.37 kW / 0.5 Hp		
+		U055	2	055	0.55 kW / 0.75 Hp		
+		U075	3	075	0.75 kW / 1 Hp		
+		U110	4	U11	1.1 kW / 1.5 Hp		
+		U150	5	U15	1.5 kW / 2 Hp		
+		U220	6	U22	2.2 kW / 3 Hp		
+		U300	7	U30	3 kW / 4 Hp		
+		U400	8	U40	4 kW / ??? Hp		
+		U550	9	U55	5.5 kW / 7.5 Hp		
+		U750	10	U75	7.5 kW / 10 Hp		
+		D110	11	D11	11 kW / 15 Hp		
+		D150	12	D15	15 kW / 20 Hp		
+
+							
+NMTS	always	...	...	...	Drive NMT State		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsCanOpenParameters.xml
+		BOOT	0	BOOT	Bootup		
+		STOP	4	STOP	Stopped		
+		OPE	5	OPE	Operational		
+		POPE	127	POPE	Pre-Operational		
+
+							
+NPL	always	...	...	...	Positive / negative logical list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppBornier.xml
+		POS	0	POS	Positive logical		
+		NEG	1	NEG	Negative logical		
+
+							
+OBCT	always	...	...	...	Option Board Card Type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOptionBoardsVersion.xml
+		NO	0	NO	No card		
+		UNK	1	UNK	Unknown board		
+		FIP	10	FIP	"FIPIO" communication board"		
+		UTL	11	UTL	"UNI-TELWAY / MODBUS" communication board"		
+		MBP	12	MBP	"MODBUS+" communication board"		
+		ASI	13	ASI	"AS-I" communication board"		
+		IBS	14	IBS	"INTERBUS-S" communication board"		
+		PBS	15	PBS	"PROFIBUS DP" communication board"		
+		ETH	16	ETH	"ETHERNET" communication board"		
+		CAN	17	CAN	"CANopen" communication board"		
+		DNT	18	DNT	"DeviceNet" communication board"		
+		COND	19	COND	Communication board not defined		
+		ETHIP	20	ETHIP	ETHERNET-IP communication board		
+		CCL	21	CCL	CC-LINK communication board		
+		PBD	22	PBD	PROFIDRIVE communication board		
+		TOSH	23	TOSH	Toshline communication board		
+		N2	24	N2	N2 communication board		
+		ETHLC	25	ETHLC	ETHERNET-Low Cost communication board		
+		MOD	26	MOD	MODEM communication board		
+		GSM	27	GSM	GSM communication board		
+		CNET	28	CNET	CONTROL-NET communication board		
+		ETIDA	29	ETIDA	ETHERNET-IDA communication board		
+		RIO	30	RIO	RemoteIO communication board		
+		LONW	31	LONW	LONWORK communication board		
+		EPL	34	EPL	Ethernet Power Link		
+		ECAT	35	ECAT	EtherCAT		
+		IOE1	51	IOE1	IOextended_1		
+		IOE2	52	IOE2	IOextended_2		
+		IOE3	53	IOE3	IOextended_3		
+		IOE4	54	IOE4	IOextended_4		
+		IOE5	55	IOE5	IOextended_5		
+		IOE6	56	IOE6	IOextended_6		
+		IOE7	57	IOE7	IOextended_7		
+		IOE8	58	IOE8	IOextended_8		
+		IOE9	59	IOE9	IOextended_9		
+		PLC1	71	PLC1	PLC_1		
+		PLC2	72	PLC2	PLC_2		
+		PLC3	73	PLC3	PLC_3		
+		PLC4	74	PLC4	PLC_4		
+		PLC5	75	PLC5	PLC_5		
+		PLC6	76	PLC6	PLC_6		
+		PLC7	77	PLC7	PLC_7		
+		PLC8	78	PLC8	PLC_8		
+		PLC9	79	PLC9	PLC_9		
+		APP01	101	APP01	Sodimas_1		
+		APP02	102	APP02	Sodimas_2		
+		APP03	103	APP03	Potain_1		
+		APP04	104	APP04	Potain_2		
+		APP05	105	APP05	Pompe_1		
+		APP06	106	APP06	Pompe_2		
+		APP07	107	APP07	KCI_1		
+		APP08	108	APP08	KCI_2		
+		APP09	109	APP09	Renault		
+		APP10	110	APP10	Peugeot		
+		APP11	111	APP11	Specific customer		
+		APP12	112	APP12	Specific customer		
+		APP13	113	APP13	Specific customer		
+		APP14	114	APP14	Specific customer		
+		APP15	115	APP15	Specific customer		
+		APP16	116	APP16	Specific customer		
+		APP17	117	APP17	Specific customer		
+		APP18	118	APP18	Specific customer		
+		APP19	119	APP19	Specific customer		
+		APP20	120	APP20	Specific customer		
+		APP21	121	APP21	Specific customer		
+		APP22	122	APP22	Specific customer		
+		APP23	123	APP23	Specific customer		
+		APP24	124	APP24	Specific customer		
+		APP25	125	APP25	Specific customer		
+		APP26	126	APP26	Specific customer		
+		APP27	127	APP27	Specific customer		
+		APP28	128	APP28	Specific customer		
+		APP29	129	APP29	Specific customer		
+		CODC	130	CODC	CanOpen DaisyChain Option Board		
+		COOS	131	COOS	CanOpen Open Style Option Board		
+
+							
+OBP	never	...	...	...	Type of option board plugged		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		NONE	0	NONE			
+		COM	1	COM			
+		BOTH	17	BOTH			
+
+							
+OKF	always	...	...	...	Used in test results		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		FAIL	0	FAIL			
+		OK	1	OK			
+
+							
+ONOFF	always	...	...	...	Address not configured		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsModbus.xml
+		OFF	0	OFF	Off		
+		ON	1	ON	On		
+
+							
+OPENC	always	...	...	...	Used in test results		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		OPEN	0	OPEN			
+		OK	1	OK			
+
+							
+OPL	always	...	...	...	Output (motor) phase loss assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntMotor.xml
+		NO	0	NO	Not configured		
+		YES	1	YES	Motor phase loss detection activated		
+		OAC	2	OAC	Uncontrolled downstream contactor function		
+
+							
+PRFL	always	...	...	...	PPO list list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsOption.xml
+		UNCG	0	UNCG			
+		1	1	1			
+		100	100	100			
+		101	101	101			
+		102	102	102			
+
+							
+PSA	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpAnalogPorts.xml
+		NO	0	NO	Not assigned		
+		AI1	1	AI1	Analogical input AI1		
+		AI2	2	AI2	Analogical input AI2		
+		AI3	3	AI3	Analogical input AI3		
+		OCR	129	OCR	Motor current		
+		OFR	130	OFR	Motor speed		
+		ORP	131	ORP	Ramp output		
+		TRQ	132	TRQ	Motor torque		
+		STQ	133	STQ	Signed motor torque		
+		ORS	134	ORS	Signed ramp output		
+		OPS	135	OPS	PI(D) reference		
+		OPF	136	OPF	PI(D) feedback		
+		OPE	137	OPE	PI(D) error		
+		OPI	138	OPI	PI(D) integral		
+		OPR	139	OPR	Motor power		
+		THR	140	THR	Motor thermal state		
+		THD	141	THD	Drive thermal state		
+		TQMS	142	TQMS	Signed motor torque Master Slave		
+		UPDT	160	UPDT	Up/Down function is assigned by Lix		
+		UPDH	161	UPDH	Up/Down function is assigned by keypad		
+		LCC	163	LCC	External keypad source		
+		MDB	164	MDB	Modbus source		
+		CAN	167	CAN	CANopen source		
+		NET	169	NET	Communication option board source		
+		OFS	173	OFS	Signed output frequency		
+		THR2	174	THR2	Motor 2 thermal state		
+		THR3	175	THR3	Motor 3 thermal state		
+		TQL	179	TQL	Torque limitation		
+		UOP	180	UOP	Motor voltage		
+		PI	181	PI	Pulse input functions affectation		
+		AIV1	183	AIV1	Virtual analogical input 1		
+		DO1	184	DO1	Analogical/logical output DO1		
+		AIV2	185	AIV2	Virtual analogical input 2		
+		OA01	240	OA01	Functions blocks : Analog Output 01		
+		OA02	241	OA02	Functions blocks : Analog Output 02		
+		OA03	242	OA03	Functions blocks : Analog Output 03		
+		OA04	243	OA04	Functions blocks : Analog Output 04		
+		OA05	244	OA05	Functions blocks : Analog Output 05		
+		OA06	245	OA06	Functions blocks : Analog Output 06		
+		OA07	246	OA07	Functions blocks : Analog Output 07		
+		OA08	247	OA08	Functions blocks : Analog Output 08		
+		OA09	248	OA09	Functions blocks : Analog Output 09		
+		OA10	249	OA10	Functions blocks : Analog Output 10		
+
+							
+PSL	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpLogicPorts.xml
+		NO	0	NO	Not assigned		
+		FLT	1	FLT	Drive fault		
+		RUN	2	RUN	Drive running		
+		OCC	3	OCC	Downstreamcontactor running		
+		FTA	4	FTA	Motor frequency threshold (FTD) reached		
+		FLA	5	FLA	High speed (HSP) reached		
+		CTA	6	CTA	Motor current threshold (CTD) reached		
+		SRA	7	SRA	Frequency reference reached		
+		TSA	8	TSA	Motor thermal threshold (TTD) reached		
+		BLC	9	BLC	Braking sequence		
+		PEE	10	PEE	PID error		
+		PFA	11	PFA	PID feedback alarm		
+		F2A	13	F2A	Second frequency threshold (F2D) reached		
+		TAD	14	TAD	Drive thermal threshold reached		
+		ULA	21	ULA	Undeload alarm		
+		OLA	22	OLA	Overload alarm		
+		RSDA	27	RSDA	Cable detendu		
+		TTHA	28	TTHA	High torque threshold		
+		TTLA	29	TTLA	Low torque threshold		
+		MFRD	30	MFRD	Run forward		
+		MRRS	31	MRRS	Run reverse		
+		TS2	37	TS2	Motor 2 thermal threshold (TTD2) reached		
+		TS3	38	TS3	Motor 3 thermal threshold (TTD3) reached		
+		ATS	47	ATS	Actual torque sign		
+		CNF0	48	CNF0	Configuration 0 active		
+		CNF1	49	CNF1	Configuration 1 active		
+		CNF2	50	CNF2	Configuration 2 active		
+		CFP1	52	CFP1	Parameter set 1 active		
+		CFP2	53	CFP2	Parameter set 2 active		
+		CFP3	54	CFP3	Parameter set 3 active		
+		DBL	64	DBL	DC bus loaded		
+		BRS	65	BRS	Braking activated		
+		PRM	66	PRM	Power removed		
+		FQLA	72	FQLA	Frequency Level reached		
+		LLC	73	LLC	Line contactor activated		
+		MCP	77	MCP	Motor current present		
+		LSA	78	LSA	Limit switch function activated		
+		DLDA	79	DLDA	Detection de variation de charge		
+		AG1	80	AG1	Alarm Group 1		
+		AG2	81	AG2	Alarm Group 2		
+		AG3	82	AG3	Alarm Group 3		
+		PLA	85	PLA	PTCL Alarm		
+		EFA	87	EFA	External fault alarm		
+		USA	88	USA	Undervoltage alarm		
+		UPA	89	UPA	Undervoltage prevention alarm		
+		THA	91	THA	Transistor heating alarm		
+		SSA	95	SSA	Torque current limitation alarm		
+		FR1	96	FR1	Reference channel = channel 1 (for RFC)		
+		FR2	97	FR2	Reference channel = channel 2 (for RFC)		
+		CD1	98	CD1	Command channel = channel 1 (for CCS)		
+		CD2	99	CD2	Command channel = channel 2 (for CCS)		
+		FR1B	100	FR1B	Reference channel = channel 1B (for RFC)		
+		EBO	101	EBO	End of bobbin		
+		TSY	102	TSY	Traverse control synchronization counter wobble		
+		TJA	104	TJA	Thermal junction alarm		
+		AP3	107	AP3	AI3 4-20 mA loss alarm		
+		FN1	116	FN1	Function key 1		
+		FN2	117	FN2	Function key 2		
+		FN3	118	FN3	Function key 3		
+		FN4	119	FN4	Function key 4		
+		RDY	127	RDY	Ready to start		
+		YES	128	YES	Yes		
+		LI1	129	LI1	Logical input LI1		
+		LI2	130	LI2	Logical input LI2		
+		LI3	131	LI3	Logical input LI3		
+		LI4	132	LI4	Logical input LI4		
+		LI5	133	LI5	Logical input LI5		
+		LI6	134	LI6	Logical input LI6		
+		LAI1	143	LAI1	Logical input AI1		
+		LAI2	144	LAI2	Logical input AI2		
+		CD00	160	CD00	Virtual logical input CMD.0		
+		CD01	161	CD01	Virtual logical input CMD.1		
+		CD02	162	CD02	Virtual logical input CMD.2		
+		CD03	163	CD03	Virtual logical input CMD.3		
+		CD04	164	CD04	Virtual logical input CMD.4		
+		CD05	165	CD05	Virtual logical input CMD.5		
+		CD06	166	CD06	Virtual logical input CMD.6		
+		CD07	167	CD07	Virtual logical input CMD.7		
+		CD08	168	CD08	Virtual logical input CMD.8		
+		CD09	169	CD09	Virtual logical input CMD.9		
+		CD10	170	CD10	Virtual logical input CMD.10		
+		CD11	171	CD11	Virtual logical input CMD.11		
+		CD12	172	CD12	Virtual logical input CMD.12		
+		CD13	173	CD13	Virtual logical input CMD.13		
+		CD14	174	CD14	Virtual logical input CMD.14		
+		CD15	175	CD15	Virtual logical input CMD.15		
+		C100	176	C100	Virtual logical input CMD1.0		
+		C101	177	C101	Virtual logical input CMD1.1		
+		C102	178	C102	Virtual logical input CMD1.2		
+		C103	179	C103	Virtual logical input CMD1.3		
+		C104	180	C104	Virtual logical input CMD1.4		
+		C105	181	C105	Virtual logical input CMD1.5		
+		C106	182	C106	Virtual logical input CMD1.6		
+		C107	183	C107	Virtual logical input CMD1.7		
+		C108	184	C108	Virtual logical input CMD1.8		
+		C109	185	C109	Virtual logical input CMD1.9		
+		C110	186	C110	Virtual logical input CMD1.10		
+		C111	187	C111	Virtual logical input CMD1.11		
+		C112	188	C112	Virtual logical input CMD1.12		
+		C113	189	C113	Virtual logical input CMD1.13		
+		C114	190	C114	Virtual logical input CMD1.14		
+		C115	191	C115	Virtual logical input CMD1.15		
+		C200	192	C200	Virtual logical input CMD2.0		
+		C201	193	C201	Virtual logical input CMD2.1		
+		C202	194	C202	Virtual logical input CMD2.2		
+		C203	195	C203	Virtual logical input CMD2.3		
+		C204	196	C204	Virtual logical input CMD2.4		
+		C205	197	C205	Virtual logical input CMD2.5		
+		C206	198	C206	Virtual logical input CMD2.6		
+		C207	199	C207	Virtual logical input CMD2.7		
+		C208	200	C208	Virtual logical input CMD2.8		
+		C209	201	C209	Virtual logical input CMD2.9		
+		C210	202	C210	Virtual logical input CMD2.10		
+		C211	203	C211	Virtual logical input CMD2.11		
+		C212	204	C212	Virtual logical input CMD2.12		
+		C213	205	C213	Virtual logical input CMD2.13		
+		C214	206	C214	Virtual logical input CMD2.14		
+		C215	207	C215	Virtual logical input CMD2.15		
+		C300	208	C300	Virtual logical input CMD3.0		
+		C301	209	C301	Virtual logical input CMD3.1		
+		C302	210	C302	Virtual logical input CMD3.2		
+		C303	211	C303	Virtual logical input CMD3.3		
+		C304	212	C304	Virtual logical input CMD3.4		
+		C305	213	C305	Virtual logical input CMD3.5		
+		C306	214	C306	Virtual logical input CMD3.6		
+		C307	215	C307	Virtual logical input CMD3.7		
+		C308	216	C308	Virtual logical input CMD3.8		
+		C309	217	C309	Virtual logical input CMD3.9		
+		C310	218	C310	Virtual logical input CMD3.10		
+		C311	219	C311	Virtual logical input CMD3.11		
+		C312	220	C312	Virtual logical input CMD3.12		
+		C313	221	C313	Virtual logical input CMD3.13		
+		C314	222	C314	Virtual logical input CMD3.14		
+		C315	223	C315	Virtual logical input CMD3.15		
+		OL01	240	OL01	Functions blocks : Logical Output 01		
+		OL02	241	OL02	Functions blocks : Logical Output 02		
+		OL03	242	OL03	Functions blocks : Logical Output 03		
+		OL04	243	OL04	Functions blocks : Logical Output 04		
+		OL05	244	OL05	Functions blocks : Logical Output 05		
+		OL06	245	OL06	Functions blocks : Logical Output 06		
+		OL07	246	OL07	Functions blocks : Logical Output 07		
+		OL08	247	OL08	Functions blocks : Logical Output 08		
+		OL09	248	OL09	Functions blocks : Logical Output 09		
+		OL10	249	OL10	Functions blocks : Logical Output 10		
+
+							
+PSLIN	always	...	...	...			X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../gp/src/GpLogicPorts.xml
+		NO	0	NO	Not assigned		
+		FLT	1	FLT	Drive fault		
+		FTA	4	FTA	Motor frequency threshold (FTD) reached		
+		F2A	13	F2A	Second frequency threshold (F2D) reached		
+		FR1	96	FR1	Reference channel = channel 1 (for RFC)		
+		FR2	97	FR2	Reference channel = channel 2 (for RFC)		
+		CD1	98	CD1	Command channel = channel 1 (for CCS)		
+		CD2	99	CD2	Command channel = channel 2 (for CCS)		
+		FR1B	100	FR1B	Reference channel = channel 1B (for RFC)		
+		YES	128	YES	Yes		
+		LI1	129	LI1	Logical input LI1		
+		LI2	130	LI2	Logical input LI2		
+		LI3	131	LI3	Logical input LI3		
+		LI4	132	LI4	Logical input LI4		
+		LI5	133	LI5	Logical input LI5		
+		LI6	134	LI6	Logical input LI6		
+		LAI1	143	LAI1	Logical input AI1		
+		LAI2	144	LAI2	Logical input AI2		
+		CD00	160	CD00	Virtual logical input CMD.0		
+		CD01	161	CD01	Virtual logical input CMD.1		
+		CD02	162	CD02	Virtual logical input CMD.2		
+		CD03	163	CD03	Virtual logical input CMD.3		
+		CD04	164	CD04	Virtual logical input CMD.4		
+		CD05	165	CD05	Virtual logical input CMD.5		
+		CD06	166	CD06	Virtual logical input CMD.6		
+		CD07	167	CD07	Virtual logical input CMD.7		
+		CD08	168	CD08	Virtual logical input CMD.8		
+		CD09	169	CD09	Virtual logical input CMD.9		
+		CD10	170	CD10	Virtual logical input CMD.10		
+		CD11	171	CD11	Virtual logical input CMD.11		
+		CD12	172	CD12	Virtual logical input CMD.12		
+		CD13	173	CD13	Virtual logical input CMD.13		
+		CD14	174	CD14	Virtual logical input CMD.14		
+		CD15	175	CD15	Virtual logical input CMD.15		
+		C101	177	C101	Virtual logical input CMD1.1		
+		C102	178	C102	Virtual logical input CMD1.2		
+		C103	179	C103	Virtual logical input CMD1.3		
+		C104	180	C104	Virtual logical input CMD1.4		
+		C105	181	C105	Virtual logical input CMD1.5		
+		C106	182	C106	Virtual logical input CMD1.6		
+		C107	183	C107	Virtual logical input CMD1.7		
+		C108	184	C108	Virtual logical input CMD1.8		
+		C109	185	C109	Virtual logical input CMD1.9		
+		C110	186	C110	Virtual logical input CMD1.10		
+		C111	187	C111	Virtual logical input CMD1.11		
+		C112	188	C112	Virtual logical input CMD1.12		
+		C113	189	C113	Virtual logical input CMD1.13		
+		C114	190	C114	Virtual logical input CMD1.14		
+		C115	191	C115	Virtual logical input CMD1.15		
+		C201	193	C201	Virtual logical input CMD2.1		
+		C202	194	C202	Virtual logical input CMD2.2		
+		C203	195	C203	Virtual logical input CMD2.3		
+		C204	196	C204	Virtual logical input CMD2.4		
+		C205	197	C205	Virtual logical input CMD2.5		
+		C206	198	C206	Virtual logical input CMD2.6		
+		C207	199	C207	Virtual logical input CMD2.7		
+		C208	200	C208	Virtual logical input CMD2.8		
+		C209	201	C209	Virtual logical input CMD2.9		
+		C210	202	C210	Virtual logical input CMD2.10		
+		C211	203	C211	Virtual logical input CMD2.11		
+		C212	204	C212	Virtual logical input CMD2.12		
+		C213	205	C213	Virtual logical input CMD2.13		
+		C214	206	C214	Virtual logical input CMD2.14		
+		C215	207	C215	Virtual logical input CMD2.15		
+		C301	209	C301	Virtual logical input CMD3.1		
+		C302	210	C302	Virtual logical input CMD3.2		
+		C303	211	C303	Virtual logical input CMD3.3		
+		C304	212	C304	Virtual logical input CMD3.4		
+		C305	213	C305	Virtual logical input CMD3.5		
+		C306	214	C306	Virtual logical input CMD3.6		
+		C307	215	C307	Virtual logical input CMD3.7		
+		C308	216	C308	Virtual logical input CMD3.8		
+		C309	217	C309	Virtual logical input CMD3.9		
+		C310	218	C310	Virtual logical input CMD3.10		
+		C311	219	C311	Virtual logical input CMD3.11		
+		C312	220	C312	Virtual logical input CMD3.12		
+		C313	221	C313	Virtual logical input CMD3.13		
+		C314	222	C314	Virtual logical input CMD3.14		
+		C315	223	C315	Virtual logical input CMD3.15		
+		OL01	240	OL01	Functions blocks : Logical Output 01		
+		OL02	241	OL02	Functions blocks : Logical Output 02		
+		OL03	242	OL03	Functions blocks : Logical Output 03		
+		OL04	243	OL04	Functions blocks : Logical Output 04		
+		OL05	244	OL05	Functions blocks : Logical Output 05		
+		OL06	245	OL06	Functions blocks : Logical Output 06		
+		OL07	246	OL07	Functions blocks : Logical Output 07		
+		OL08	247	OL08	Functions blocks : Logical Output 08		
+		OL09	248	OL09	Functions blocks : Logical Output 09		
+		OL10	249	OL10	Functions blocks : Logical Output 10		
+
+							
+PT3V	never	...	...	...	PTC IO extended status		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctPtcTreatment.xml
+		COLD	0	COLD	Cold IOExtended PTC		
+		HOT	1	HOT	Hot IOExtended PTC		
+		OPEN	2	OPEN	Open IOExtended PTC		
+		CC	3	CC	CC IOExtended PTC		
+
+							
+PTCX	always	...	...	...	PTC management type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctPtcTreatment.xml
+		NO	0	NO	No management		
+		AS	1	AS	Always		
+		RDS	2	RDS	Ready or run drive status (+ OTF fault)		
+		RS	3	RS	Run status (+ OTF fault)		
+
+							
+PVIS	always	...	...	...	Parameter visibility type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		ACT	0	ACT			
+		ALL	1	ALL			
+
+							
+PWDS	always	...	...	...	Safe password status		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		UNDF	0	UNDF	Password undefined		
+		DEF	1	DEF	Password defined		
+
+							
+PWT	always	...	...	...	Power type product		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		UNK	0	UNK	Unknown power type of products		
+		N3	1	N3	Nano3		
+		R3C	2	R3C	RS3 Cubic		
+		R3B	3	R3B	RS3 Book		
+
+							
+QSTD	always	...	...	...	Quick stop mode list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../app/src/AppDrivecomPrj.xml
+		FST2	2	FST2	Fast stop then disable voltage		
+		FST6	6	FST6	Fast stop then stay in quick stop state		
+
+							
+RDS	always	...	...	...	Rate and duplex setting		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Hmi/_Gfx/Src/HmiGfxPrm.xml
+		AUTO	0	AUTO			
+		10F	1	10F			
+		10H	2	10H			
+		100F	3	100F			
+		100H	4	100H			
+
+							
+RPR	always	...	...	...	Reset of run elapsed time list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctPowerElapsedTime.xml
+		NO	0	NO	No		
+		APH	1	APH	Clear APH		
+		RTH	2	RTH	Clear RTH		
+		RTHI	3	RTHI	Clear RTHI		
+		PTH	4	PTH	Clear PTH		
+		ALL	64	ALL	"Clear ALL : APH, RTH, RTHI, PTH"		
+
+							
+RPT	always	...	...	...	Shape ramp assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntRampe.xml
+		LIN	0	LIN	Linear ramp		
+		S	1	S	S ramp		
+		U	2	U	U ramp		
+		CUS	3	CUS	Customer ramp		
+
+							
+RSD	always	...	...	...	Load measurement feedback list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctHighSpeedHoisting.xml
+		NO	0	NO	Function not active		
+		DRI	1	DRI	Drive motor torque estimation		
+		PES	2	PES	External weight measurement		
+
+							
+SCMD	always	...	...	...	Slow scope command type		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsSlowScope.xml
+		STOP	0	STOP	Stop		
+		START	1	STRT	Start		
+
+							
+SCS	always	...	...	...	Store customer parameter set list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgConfigPrm.xml
+		NO	0	NO	No		
+		STR0	1	STR0	Store customer parameter set 0		
+		STR1	2	STR1	Store customer parameter set 1		
+		STR2	3	STR2	Store customer parameter set 2		
+
+							
+SFT	always	...	...	...	Shape ramp assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntPWM.xml
+		HF1	1	HF1	Heating optimization		
+		HF2	2	HF2	Motor noise optimization		
+
+							
+SFTY	always	...	...	...	Safe Drive Status Element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		STD	0	STD	Standard drive		
+		SAFE	1	SAFE	Safe drive		
+
+							
+SIZE	always	...	...	...	Size of product		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		UNK	0	UNK	Unknown size of product		
+		1	1	1	Size 1		
+		2	2	2	Size 2		
+		3	3	3	Size 3		
+		4	4	4	Size 4		
+		5	5	5	Size 5		
+
+							
+SLSS	always	...	...	...	SLS Status Element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		NO	0	NO	SLS is not configured		
+		IDLE	1	IDLE	SLS is in IDLE state		
+		SS1	2	SS1	SLS ramp in progress		
+		SLS	3	SLS	SLS speed limitation in progress		
+		STO	4	STO	SLS power removal request in progress		
+		FLT	5	FLT	SLS fault		
+
+							
+SLT	always	...	...	...	Safe Limited speed Type Element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		TYP1	0	TYP1	SLS type 1		
+		TYP2	1	TYP2	SLS type 2		
+		TYP3	2	TYP3	SLS type 3		
+
+							
+SMOT	always	...	...	...	Status of tune in therm of salliency		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoTuning.xml
+		NO	0	NO	Tune not done		
+		LLS	1	LLS	Low salliency level (may be SPM)		
+		MLS	2	MLS	medium salliency level (may be SPM)		
+		HLS	3	HLS	High salliency level (may be IPM)		
+
+							
+SOP	always	...	...	...	Attenuation time list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntSurgeVoltage.xml
+		6	6	6	6 µS		
+		8	8	8	8 µS		
+		10	10	10	10 µS		
+
+							
+SPIG	always	...	...	...	STOP Ignore List		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_FunctionBlock/Src/FBPrm.xml
+		STOP	0	STOP	Stop		
+		IGN	1	IGN	Ignore		
+
+							
+SPSL	always	...	...	...	Safe logical producers		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		NO	0	NO	Not assigned		
+		L34	1	L34	LI 3/4 Low state		
+		L56	2	L56	LI 5/6 Low state		
+		L3PW	3	L3PW	LI 3/PWRM Low state		
+		PWRM	4	PWRM	PWRM Low state		
+
+							
+SPST	always	...	...	...	STOP START List		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_FunctionBlock/Src/FBPrm.xml
+		STOP	0	STOP	Stop		
+		STRT	1	STRT	Start		
+
+							
+SS1S	always	...	...	...	SLS Status Element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		NO	0	NO	SS1 is not configured		
+		IDLE	1	IDLE	SS1 is in IDLE state		
+		SS1	2	SS1	SS1 ramp in progress		
+		STO	3	STO	SS1 safe torque off request in progress		
+		FLT	4	FLT	SS1 in fault		
+
+							
+SSRU	always	...	...	...	SS1 ramp unit element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		1H	0	1H	1 Hz/s		
+		10H	1	10H	10 Hz/s		
+		100H	2	100H	100 Hz/s		
+
+							
+SSSL	always	...	...	...	Safe session state		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		CLOS	0	CLOS	Session is closed		
+		OPEN	1	OPEN	Session is opened		
+
+							
+STOS	always	...	...	...	Safe Torque Off Status Element		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Safety/Src/SFParameters.xml
+		IDLE	0	IDLE	STO not in progress		
+		STO	1	STO	STO in progress		
+		FLT	2	FLT	STO in fault		
+
+							
+STP	always	...	...	...	Controlled stop assignment list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntControledStop.xml
+		NO	0	NO	Nothing		
+		MMS	1	MMS	DC bus maintain		
+		RMP	2	RMP	Ramp deceleration		
+		LNF	4	LNF	Drive locked without fault (Lock No Fault)		
+
+							
+STR	always	...	...	...	+ / - speed reference saved list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctFasterSlower.xml
+		NO	0	NO	No memorization		
+		RAM	1	RAM	+ / - speed with saving of the reference in RAM		
+		EEP	2	EEP	+ / - speed with saving of the reference in EEPROM		
+
+							
+STT	always	...	...	...	Stop mode list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctStopMode.xml
+		RMP	0	RMP	Follow ramp		
+		FST	1	FST	Fast stop		
+		NST	2	NST	Freewheel stop		
+		DCI	3	DCI	DC injection stop		
+
+							
+STUN	always	...	...	...	Affectations paramètre TUN		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoTuning.xml
+		TAB	0	TAB	Default values are used to control the motor		
+		MEAS	1	MEAS	Autotune values are used to control the motor		
+		CUS	2	CUS	Custom values are used to control the motor		
+
+							
+TBR	always	...	...	...	Baud-rate list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../es/src/EsModbus.xml
+		NO	0	NO	Not configured		
+		AUTO	4	AUTO	Automatic detection		
+		300	8	300	300 Bauds		
+		600	12	600	600 Bauds		
+		1200	16	1K2	1 200 Bauds		
+		2400	20	2K4	2 400 Bauds		
+		4800	24	4K8	4 800 Bauds		
+		9600	28	9K6	9 600 Bauds		
+		10000	30	10K	10 000 Bauds		
+		19200	32	19K2	19 200 Bauds		
+		20000	34	20K	20 000 Bauds		
+		28800	35	28K8	28 800 Bauds		
+		38400	36	38K4	38 400 Bauds		
+		45450	37	45K4	45 450 Bauds		
+		50000	38	50K	50 000 Bauds		
+		57600	40	57K6	57 600 Bauds		
+		93750	42	93K7	93 750 Bauds		
+		100K	44	100K	100 000 Bauds		
+		115K2	48	115K	115 200 Bauds		
+		125K	52	125K	125 000 Bauds		
+		156K	53	156K	156 000 Bauds		
+		187K5	54	187K	187 500 Bauds		
+		230K4	56	230K	230 400 Bauds		
+		250K	60	250K	250 000 Bauds		
+		460K8	64	460K	460 800 Bauds		
+		500K	68	500K	500 000 Bauds		
+		625K	69	625K	625 000 Bauds		
+		800K	70	800K	800 000 Bauds		
+		921K6	72	921K	921 600 Bauds		
+		1M	76	1M	1 MBauds		
+		1M5	80	1M5	1.5 MBauds		
+		2M5	81	2M5	2.5 MBauds		
+		3M	82	3M	3 MBauds		
+		6M	83	6M	6 MBauds		
+		10M	84	10M	10 MBauds		
+		5M	86	5M	5 MBauds		
+		12M	88	12M	12 MBauds		
+		100M	92	100M	100 MBauds		
+
+							
+TCC	always	...	...	...	Type of control list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/Fct23wires.xml
+		2C	0	2C	2 wires control		
+		3C	1	3C	3 wires control		
+
+							
+TCT	always	...	...	...	2 wire type control list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/Fct23wires.xml
+		LEL	0	LEL	Level detection (0 or 1)		
+		TRN	1	TRN	Transition detecting (switching from 0 to 1 or 1 to 0)		
+		PFO	2	PFO	Level detection with priority given to forward over reverse		
+
+							
+THT	always	...	...	...	Thermal protection type list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntMotor.xml
+		NO	0	NO	No thermal protection		
+		ACL	1	ACL	Self-ventilated motor		
+		FCL	2	FCL	Fan-cooled motor		
+
+							
+TUNU	always	...	...	...	Tune usage		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctAutoTuning.xml
+		NO	0	NO	Rs measurement		
+		TM	1	TM	Thermal motor		
+		CT	2	CT	Cold tune		
+
+							
+ULR	always	...	...	...	Upload rights		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../_Configuration/_CfgConfig/Src/CfgCodePrm.xml
+		ULR0	0	ULR0	"Allowed : means that PowerSuite or the Console can save the whole configuration (password, protections, configuration …). When the configuration is edited, only the non protected parameters will be accessible"		
+		ULR1	1	ULR1	Not allowed : means that PowerSuite or the Console cannot save the configuration		
+
+							
+URES	always	...	...	...	Supply voltage list (BE CAREFUL : 10V step)		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctDCBusManagement.xml
+		200	20	200			
+		220	22	220			
+		230	23	230			
+		240	24	240			
+		380	38	380			
+		400	40	400			
+		440	44	440			
+		460	46	460			
+		500	50	500			
+		LHM	254	LHM			
+
+							
+USB	always	...	...	...	Under-voltage setting list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctDCBusManagement.xml
+		0	0	0	USF fault and the fault relay is open after UST only if PWM is enable		
+		1	1	1	USF fault and the fault relay is kept closed only if PWM is enable		
+		2	2	2	USA alarm and fault relay keep closed		
+
+							
+VCAI	always	...	...	...	Internal drive rate voltage list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		220M	0	M2	220V single-phase		
+		480T	1	N4	480V three-phase		
+
+							
+VCAL	always	...	...	...	Drive rate voltage list		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../ent/src/EntDrive.xml
+		NO	0	NO	Unknown drive rate voltage		
+		110M	1	110M	110V single-phase		
+		110T	2	110T	110V three-phase		
+		220M	3	M2	220V single-phase		
+		220T	4	M3	220V three-phase		
+		480M	5	480M	480V single-phase		
+		480T	6	N4	480V three-phase		
+		690M	7	690M	690V single-phase		
+		690T	8	S6	690V three-phase		
+
+							
+VOLT	always	...	...	...	Voltage desciption		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../fct/src/FctMonitor.xml
+		ULNUNK	0	----	Unknow power		
+
+							
+VSCP	always	...	...	...	Vscope mode		X:\N3R3_DriveSw\Application\Build\Utils\..\..\_PrjAppRSX\Gp\Gen\../../hdw/src/hdwScopeDrv.xml
+		NO	0	NO	Vscope is inactive		
+		APP	1	APP	Application adress and MC adresse (with offset) can be selected		
+		MC	2	MC	Only MC adresse (without offset) can be selected		

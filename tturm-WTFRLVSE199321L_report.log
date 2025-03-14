@@ -1,0 +1,51 @@
+Test cycle 1 in given directories started {Thu 06.03.2025 18:11}
+TC_0Init_ATSInit                                                       FAILED
+Test cycle 1 in given directories ended {Thu 06.03.2025 18:11}
+Test cycle 1 in given directories started {Thu 06.03.2025 18:14}
+TC_0Init_TestfileStart                                                 FAILED
+Test cycle 1 in given directories started {Thu 06.03.2025 18:17}
+TC_0Init_ATSInit                                                       FAILED
+TC_FFT041_FaultStopMode_TestfileStart                                  FAILED
+TC_FFT041_FaultStopMode_TC01                                           FAILED
+TC_FFT041_FaultStopMode_TC02                                           FAILED
+TC_FFT041_FaultStopMode_TC03                                           FAILED
+TC_FFT041_FaultStopMode_TC04                                           FAILED
+TC_FFT041_FaultStopMode_TC05                                           FAILED
+TC_FFT041_FaultStopMode_TC06                                           FAILED
+Start cycle 1: test case TC_0Init {Thu 06.03.2025 18:21}
+TC_0Init_ATSInit                                                       FAILED
+End  cycle 1: test case TC_0Init {Thu 06.03.2025 18:22}
+Start cycle 1: test case TC_0Init {Thu 06.03.2025 18:26}
+=============================================================
+Altistart Testrun No: 1 on Device Nr.: 2
+Test started at        : {Thu 06.03.2025 18:30}
+Device name            : Altistart 490
+Application version    : V1.2ie03  Build07 build00 (Checksum = 0xECA1)
+Motor control version  : V1.2ie03  Build05 build00 (Checksum = 0xA0AB)
+=============================================================
+TC_0Init_ATSInit                                                       OK
+End  cycle 1: test case TC_0Init {Thu 06.03.2025 18:30}
+Start cycle 1: test case TC_ATS {Thu 06.03.2025 18:31}
+TC_FFT041_FaultStopMode_TestfileStart                                  OK
+TC_FFT041_FaultStopMode_TC01                                           FAILED
+TC_FFT041_FaultStopMode_TC02                                           FAILED
+Start cycle 1: test case TC_ATS {Thu 06.03.2025 18:33}
+TC_FFT041_FaultStopMode_TestfileStart                                  OK
+TC_FFT041_FaultStopMode_TC01                                           FAILED
+TC_FFT041_FaultStopMode_TC02                                           OK
+TC_FFT041_FaultStopMode_TC03                                           OK
+TC_FFT041_FaultStopMode_TC04                                           OK
+TC_FFT041_FaultStopMode_TC05                                           OK
+TC_FFT041_FaultStopMode_TC06                                           OK
+TC_FFT041_FaultStopMode_TestfileStop                                   OK
+End  cycle 1: test case TC_ATS {Thu 06.03.2025 18:42}
+Start cycle 1: test case TC_ATS {Thu 06.03.2025 18:45}
+TC_FFT041_FaultStopMode_TestfileStart                                  OK
+TC_FFT041_FaultStopMode_TC01                                           FAILED
+TC_FFT041_FaultStopMode_TC02                                           OK
+TC_FFT041_FaultStopMode_TC03                                           OK
+TC_FFT041_FaultStopMode_TC04                                           OK
+TC_FFT041_FaultStopMode_TC05                                           OK
+TC_FFT041_FaultStopMode_TC06                                           OK
+TC_FFT041_FaultStopMode_TestfileStop                                   OK
+End  cycle 1: test case TC_ATS {Thu 06.03.2025 18:53}

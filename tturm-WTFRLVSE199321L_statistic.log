@@ -1,0 +1,17 @@
+[TestCaseExecutionCounter]
+TC_0Init_ATSInit=-9
+TC_0Init_TestfileStart=-10
+TC_FFT041_FaultStopMode_TC01=-10
+TC_FFT041_FaultStopMode_TC02=-8
+TC_FFT041_FaultStopMode_TC03=-8
+TC_FFT041_FaultStopMode_TC04=-8
+TC_FFT041_FaultStopMode_TC05=-8
+TC_FFT041_FaultStopMode_TC06=-8
+TC_FFT041_FaultStopMode_TestfileStart=-7
+TC_FFT041_FaultStopMode_TestfileStop=1
+
+[TestSuiteExecutionCounter]
+dummy=-10
+TC_0Init=-10
+TC_FFT041_FaultStopMode=-10
+
